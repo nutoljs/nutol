@@ -1,0 +1,7 @@
+node_modules/
+dist/
+coverage/
+/sandbox
+**/*.d.ts
+jest.config.js
+config/

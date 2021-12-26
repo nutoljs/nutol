@@ -1,0 +1,41 @@
+{
+  "name": "@nutol/monorepo",
+  "description": "A set of scripts to maintain a lerna monorepo",
+  "version": "0.1.0",
+  "license": "MIT",
+  "bin": {
+    "nb-run-lerna": "./lib/run-lerna.js",
+    "nb-check-package-locks": "./lib/check-package-locks.js",
+    "nb-rebuild-package-locks": "./lib/rebuild-package-locks.js",
+    "nb-update-package-deps": "./lib/update-package-deps.js",
+    "nb-update-package-json": "./lib/update-package-json.js",
+    "nb-update-ts-project-refs": "./lib/update-ts-project-refs.js"
+  },
+  "main": "index.js",
+  "author": "TY",
+  "contributors": [
+    "IBM Corp."
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nutoljs/nutol.git",
+    "directory": "packages/monorepo"
+  },
+  "engines": {
+    "node": "12 || 14 || 16 || 17"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "peerDependencies": {
+    "lerna": "^4.0.0"
+  },
+  "dependencies": {
+    "@lerna/filter-packages": "^4.0.0",
+    "@lerna/package-graph": "^4.0.0",
+    "@lerna/project": "^4.0.0",
+    "cross-spawn": "^7.0.3",
+    "debug": "^4.3.3",
+    "fs-extra": "^10.0.0"
+  }
+}
