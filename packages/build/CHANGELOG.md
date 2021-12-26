@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.2.0 (2021-12-26)
+
+
+### Features
+
+* initial commit ([06f69ba](https://github.com/nutoljs/nutol/commit/06f69baf1c724633a35d231e2c00adbe4884805d))
+
+
+
+
+
 # [8.0.0](https://github.com/nutoljs/nutol/compare/@nutol/build@7.0.2...@nutol/build@8.0.0) (2021-11-18)
 
 
