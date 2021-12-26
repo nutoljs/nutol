@@ -56,8 +56,6 @@
     "ts-jest": "^27.1.2",
     "husky": "^7.0.4",
     "lint-staged": "^12.1.4",
-    "markdown-table": "^3.0.2",
-    "open-cli": "^7.0.1",
     "prettier": "^2.5.1",
     "typescript": "~4.5.4"
   },
