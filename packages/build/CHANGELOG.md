@@ -3,7 +3,7 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [0.2.1](https://github.com/nutoljs/nutol/compare/@nutol/build@0.2.0...@nutol/build@0.2.1) (2021-12-27)
+## [0.2.1](https://github.com/loopbackio/loopback-next/compare/@loopback/build@0.2.0...@nutol/build@0.2.1) (2021-12-27)
 
 **Note:** Version bump only for package @nutol/build
 
@@ -22,7 +22,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [8.0.0](https://github.com/nutoljs/nutol/compare/@nutol/build@7.0.2...@nutol/build@8.0.0) (2021-11-18)
+# [8.0.0](https://github.com/loopbackio/loopback-next/compare/@loopback/build@7.0.2...@nutol/build@8.0.0) (2021-11-18)
 
 
 ### Features
@@ -43,7 +43,7 @@ Signed-off-by: Rifa Achrinza <25147899+achrinza@users.noreply.github.com>
 
 
 
-## [7.0.2](https://github.com/nutoljs/nutol/compare/@nutol/build@7.0.1...@nutol/build@7.0.2) (2021-10-18)
+## [7.0.2](https://github.com/loopbackio/loopback-next/compare/@loopback/build@7.0.1...@nutol/build@7.0.2) (2021-10-18)
 
 **Note:** Version bump only for package @nutol/build
 
@@ -51,7 +51,7 @@ Signed-off-by: Rifa Achrinza <25147899+achrinza@users.noreply.github.com>
 
 
 
-## [7.0.1](https://github.com/nutoljs/nutol/compare/@nutol/build@7.0.0...@nutol/build@7.0.1) (2021-09-16)
+## [7.0.1](https://github.com/loopbackio/loopback-next/compare/@loopback/build@7.0.0...@nutol/build@7.0.1) (2021-09-16)
 
 **Note:** Version bump only for package @nutol/build
 
@@ -59,7 +59,7 @@ Signed-off-by: Rifa Achrinza <25147899+achrinza@users.noreply.github.com>
 
 
 
-# [7.0.0](https://github.com/nutoljs/nutol/compare/@nutol/build@6.4.1...@nutol/build@7.0.0) (2021-07-15)
+# [7.0.0](https://github.com/loopbackio/loopback-next/compare/@loopback/build@6.4.1...@nutol/build@7.0.0) (2021-07-15)
 
 
 ### Features
@@ -78,7 +78,7 @@ Signed-off-by: Raymond Feng <enjoyjava@gmail.com>
 
 
 
-## [6.4.1](https://github.com/nutoljs/nutol/compare/@nutol/build@6.4.0...@nutol/build@6.4.1) (2021-06-10)
+## [6.4.1](https://github.com/loopbackio/loopback-next/compare/@loopback/build@6.4.0...@nutol/build@6.4.1) (2021-06-10)
 
 **Note:** Version bump only for package @nutol/build
 
@@ -86,7 +86,7 @@ Signed-off-by: Raymond Feng <enjoyjava@gmail.com>
 
 
 
-# [6.4.0](https://github.com/nutoljs/nutol/compare/@nutol/build@6.3.1...@nutol/build@6.4.0) (2021-05-03)
+# [6.4.0](https://github.com/loopbackio/loopback-next/compare/@loopback/build@6.3.1...@nutol/build@6.4.0) (2021-05-03)
 
 
 ### Features
@@ -97,7 +97,7 @@ Signed-off-by: Raymond Feng <enjoyjava@gmail.com>
 
 
 
-## [6.3.1](https://github.com/nutoljs/nutol/compare/@nutol/build@6.3.0...@nutol/build@6.3.1) (2021-04-06)
+## [6.3.1](https://github.com/loopbackio/loopback-next/compare/@loopback/build@6.3.0...@nutol/build@6.3.1) (2021-04-06)
 
 **Note:** Version bump only for package @nutol/build
 
@@ -105,7 +105,7 @@ Signed-off-by: Raymond Feng <enjoyjava@gmail.com>
 
 
 
-# [6.3.0](https://github.com/nutoljs/nutol/compare/@nutol/build@6.2.9...@nutol/build@6.3.0) (2021-03-18)
+# [6.3.0](https://github.com/loopbackio/loopback-next/compare/@loopback/build@6.2.9...@nutol/build@6.3.0) (2021-03-18)
 
 
 ### Features
@@ -117,7 +117,7 @@ Signed-off-by: Raymond Feng <enjoyjava@gmail.com>
 
 
 
-## [6.2.9](https://github.com/nutoljs/nutol/compare/@nutol/build@6.2.8...@nutol/build@6.2.9) (2021-01-21)
+## [6.2.9](https://github.com/loopbackio/loopback-next/compare/@loopback/build@6.2.8...@nutol/build@6.2.9) (2021-01-21)
 
 **Note:** Version bump only for package @nutol/build
 
@@ -125,7 +125,7 @@ Signed-off-by: Raymond Feng <enjoyjava@gmail.com>
 
 
 
-## [6.2.8](https://github.com/nutoljs/nutol/compare/@nutol/build@6.2.7...@nutol/build@6.2.8) (2020-12-07)
+## [6.2.8](https://github.com/loopbackio/loopback-next/compare/@loopback/build@6.2.7...@nutol/build@6.2.8) (2020-12-07)
 
 **Note:** Version bump only for package @nutol/build
 
@@ -133,7 +133,7 @@ Signed-off-by: Raymond Feng <enjoyjava@gmail.com>
 
 
 
-## [6.2.7](https://github.com/nutoljs/nutol/compare/@nutol/build@6.2.6...@nutol/build@6.2.7) (2020-11-18)
+## [6.2.7](https://github.com/loopbackio/loopback-next/compare/@loopback/build@6.2.6...@nutol/build@6.2.7) (2020-11-18)
 
 **Note:** Version bump only for package @nutol/build
 
@@ -141,7 +141,7 @@ Signed-off-by: Raymond Feng <enjoyjava@gmail.com>
 
 
 
-## [6.2.6](https://github.com/nutoljs/nutol/compare/@nutol/build@6.2.5...@nutol/build@6.2.6) (2020-11-05)
+## [6.2.6](https://github.com/loopbackio/loopback-next/compare/@loopback/build@6.2.5...@nutol/build@6.2.6) (2020-11-05)
 
 **Note:** Version bump only for package @nutol/build
 
@@ -149,7 +149,7 @@ Signed-off-by: Raymond Feng <enjoyjava@gmail.com>
 
 
 
-## [6.2.5](https://github.com/nutoljs/nutol/compare/@nutol/build@6.2.4...@nutol/build@6.2.5) (2020-10-07)
+## [6.2.5](https://github.com/loopbackio/loopback-next/compare/@loopback/build@6.2.4...@nutol/build@6.2.5) (2020-10-07)
 
 **Note:** Version bump only for package @nutol/build
 
@@ -157,7 +157,7 @@ Signed-off-by: Raymond Feng <enjoyjava@gmail.com>
 
 
 
-## [6.2.4](https://github.com/nutoljs/nutol/compare/@nutol/build@6.2.3...@nutol/build@6.2.4) (2020-09-17)
+## [6.2.4](https://github.com/loopbackio/loopback-next/compare/@loopback/build@6.2.3...@nutol/build@6.2.4) (2020-09-17)
 
 **Note:** Version bump only for package @nutol/build
 
@@ -165,7 +165,7 @@ Signed-off-by: Raymond Feng <enjoyjava@gmail.com>
 
 
 
-## [6.2.3](https://github.com/nutoljs/nutol/compare/@nutol/build@6.2.2...@nutol/build@6.2.3) (2020-09-15)
+## [6.2.3](https://github.com/loopbackio/loopback-next/compare/@loopback/build@6.2.2...@nutol/build@6.2.3) (2020-09-15)
 
 **Note:** Version bump only for package @nutol/build
 
@@ -173,7 +173,7 @@ Signed-off-by: Raymond Feng <enjoyjava@gmail.com>
 
 
 
-## [6.2.2](https://github.com/nutoljs/nutol/compare/@nutol/build@6.2.1...@nutol/build@6.2.2) (2020-08-27)
+## [6.2.2](https://github.com/loopbackio/loopback-next/compare/@loopback/build@6.2.1...@nutol/build@6.2.2) (2020-08-27)
 
 **Note:** Version bump only for package @nutol/build
 
@@ -181,7 +181,7 @@ Signed-off-by: Raymond Feng <enjoyjava@gmail.com>
 
 
 
-## [6.2.1](https://github.com/nutoljs/nutol/compare/@nutol/build@6.2.0...@nutol/build@6.2.1) (2020-08-19)
+## [6.2.1](https://github.com/loopbackio/loopback-next/compare/@loopback/build@6.2.0...@nutol/build@6.2.1) (2020-08-19)
 
 **Note:** Version bump only for package @nutol/build
 
@@ -189,7 +189,7 @@ Signed-off-by: Raymond Feng <enjoyjava@gmail.com>
 
 
 
-# [6.2.0](https://github.com/nutoljs/nutol/compare/@nutol/build@6.1.1...@nutol/build@6.2.0) (2020-08-05)
+# [6.2.0](https://github.com/loopbackio/loopback-next/compare/@loopback/build@6.1.1...@nutol/build@6.2.0) (2020-08-05)
 
 
 ### Bug Fixes
@@ -205,7 +205,7 @@ Signed-off-by: Raymond Feng <enjoyjava@gmail.com>
 
 
 
-## [6.1.1](https://github.com/nutoljs/nutol/compare/@nutol/build@6.1.0...@nutol/build@6.1.1) (2020-07-20)
+## [6.1.1](https://github.com/loopbackio/loopback-next/compare/@loopback/build@6.1.0...@nutol/build@6.1.1) (2020-07-20)
 
 **Note:** Version bump only for package @nutol/build
 
@@ -213,7 +213,7 @@ Signed-off-by: Raymond Feng <enjoyjava@gmail.com>
 
 
 
-# [6.1.0](https://github.com/nutoljs/nutol/compare/@nutol/build@6.0.0...@nutol/build@6.1.0) (2020-06-30)
+# [6.1.0](https://github.com/loopbackio/loopback-next/compare/@loopback/build@6.0.0...@nutol/build@6.1.0) (2020-06-30)
 
 
 ### Features
@@ -224,7 +224,7 @@ Signed-off-by: Raymond Feng <enjoyjava@gmail.com>
 
 
 
-# [6.0.0](https://github.com/nutoljs/nutol/compare/@nutol/build@5.4.3...@nutol/build@6.0.0) (2020-06-23)
+# [6.0.0](https://github.com/loopbackio/loopback-next/compare/@loopback/build@5.4.3...@nutol/build@6.0.0) (2020-06-23)
 
 
 ### Bug Fixes
@@ -250,7 +250,7 @@ https://github.com/mochajs/mocha/releases/tag/v8.0.0
 
 
 
-## [5.4.3](https://github.com/nutoljs/nutol/compare/@nutol/build@5.4.2...@nutol/build@5.4.3) (2020-06-11)
+## [5.4.3](https://github.com/loopbackio/loopback-next/compare/@loopback/build@5.4.2...@nutol/build@5.4.3) (2020-06-11)
 
 **Note:** Version bump only for package @nutol/build
 
@@ -258,7 +258,7 @@ https://github.com/mochajs/mocha/releases/tag/v8.0.0
 
 
 
-## [5.4.2](https://github.com/nutoljs/nutol/compare/@nutol/build@5.4.1...@nutol/build@5.4.2) (2020-05-28)
+## [5.4.2](https://github.com/loopbackio/loopback-next/compare/@loopback/build@5.4.1...@nutol/build@5.4.2) (2020-05-28)
 
 **Note:** Version bump only for package @nutol/build
 
@@ -266,7 +266,7 @@ https://github.com/mochajs/mocha/releases/tag/v8.0.0
 
 
 
-## [5.4.1](https://github.com/nutoljs/nutol/compare/@nutol/build@5.4.0...@nutol/build@5.4.1) (2020-05-20)
+## [5.4.1](https://github.com/loopbackio/loopback-next/compare/@loopback/build@5.4.0...@nutol/build@5.4.1) (2020-05-20)
 
 **Note:** Version bump only for package @nutol/build
 
@@ -274,7 +274,7 @@ https://github.com/mochajs/mocha/releases/tag/v8.0.0
 
 
 
-# [5.4.0](https://github.com/nutoljs/nutol/compare/@nutol/build@5.3.1...@nutol/build@5.4.0) (2020-05-19)
+# [5.4.0](https://github.com/loopbackio/loopback-next/compare/@loopback/build@5.3.1...@nutol/build@5.4.0) (2020-05-19)
 
 
 ### Bug Fixes
@@ -290,7 +290,7 @@ https://github.com/mochajs/mocha/releases/tag/v8.0.0
 
 
 
-## [5.3.1](https://github.com/nutoljs/nutol/compare/@nutol/build@5.3.0...@nutol/build@5.3.1) (2020-05-07)
+## [5.3.1](https://github.com/loopbackio/loopback-next/compare/@loopback/build@5.3.0...@nutol/build@5.3.1) (2020-05-07)
 
 **Note:** Version bump only for package @nutol/build
 
@@ -298,7 +298,7 @@ https://github.com/mochajs/mocha/releases/tag/v8.0.0
 
 
 
-# [5.3.0](https://github.com/nutoljs/nutol/compare/@nutol/build@5.2.0...@nutol/build@5.3.0) (2020-04-29)
+# [5.3.0](https://github.com/loopbackio/loopback-next/compare/@loopback/build@5.2.0...@nutol/build@5.3.0) (2020-04-29)
 
 
 ### Features
@@ -309,7 +309,7 @@ https://github.com/mochajs/mocha/releases/tag/v8.0.0
 
 
 
-# [5.2.0](https://github.com/nutoljs/nutol/compare/@nutol/build@5.1.0...@nutol/build@5.2.0) (2020-04-23)
+# [5.2.0](https://github.com/loopbackio/loopback-next/compare/@loopback/build@5.1.0...@nutol/build@5.2.0) (2020-04-23)
 
 
 ### Features
@@ -321,7 +321,7 @@ https://github.com/mochajs/mocha/releases/tag/v8.0.0
 
 
 
-# [5.1.0](https://github.com/nutoljs/nutol/compare/@nutol/build@5.0.1...@nutol/build@5.1.0) (2020-04-22)
+# [5.1.0](https://github.com/loopbackio/loopback-next/compare/@loopback/build@5.0.1...@nutol/build@5.1.0) (2020-04-22)
 
 
 ### Features
@@ -332,7 +332,7 @@ https://github.com/mochajs/mocha/releases/tag/v8.0.0
 
 
 
-## [5.0.1](https://github.com/nutoljs/nutol/compare/@nutol/build@5.0.0...@nutol/build@5.0.1) (2020-04-08)
+## [5.0.1](https://github.com/loopbackio/loopback-next/compare/@loopback/build@5.0.0...@nutol/build@5.0.1) (2020-04-08)
 
 **Note:** Version bump only for package @nutol/build
 
@@ -340,7 +340,7 @@ https://github.com/mochajs/mocha/releases/tag/v8.0.0
 
 
 
-# [5.0.0](https://github.com/nutoljs/nutol/compare/@nutol/build@4.0.1...@nutol/build@5.0.0) (2020-03-24)
+# [5.0.0](https://github.com/loopbackio/loopback-next/compare/@loopback/build@4.0.1...@nutol/build@5.0.0) (2020-03-24)
 
 
 ### Features
@@ -359,7 +359,7 @@ To reformat code using prettier, run `npm run prettier:fix`.
 
 
 
-## [4.0.1](https://github.com/nutoljs/nutol/compare/@nutol/build@4.0.0...@nutol/build@4.0.1) (2020-03-17)
+## [4.0.1](https://github.com/loopbackio/loopback-next/compare/@loopback/build@4.0.0...@nutol/build@4.0.1) (2020-03-17)
 
 **Note:** Version bump only for package @nutol/build
 
@@ -367,7 +367,7 @@ To reformat code using prettier, run `npm run prettier:fix`.
 
 
 
-# [4.0.0](https://github.com/nutoljs/nutol/compare/@nutol/build@3.1.1...@nutol/build@4.0.0) (2020-03-05)
+# [4.0.0](https://github.com/loopbackio/loopback-next/compare/@loopback/build@3.1.1...@nutol/build@4.0.0) (2020-03-05)
 
 
 ### chore
@@ -397,7 +397,7 @@ updating to this version.
 
 
 
-## [3.1.1](https://github.com/nutoljs/nutol/compare/@nutol/build@3.1.0...@nutol/build@3.1.1) (2020-02-05)
+## [3.1.1](https://github.com/loopbackio/loopback-next/compare/@loopback/build@3.1.0...@nutol/build@3.1.1) (2020-02-05)
 
 **Note:** Version bump only for package @nutol/build
 
@@ -405,7 +405,7 @@ updating to this version.
 
 
 
-# [3.1.0](https://github.com/nutoljs/nutol/compare/@nutol/build@3.0.1...@nutol/build@3.1.0) (2020-01-27)
+# [3.1.0](https://github.com/loopbackio/loopback-next/compare/@loopback/build@3.0.1...@nutol/build@3.1.0) (2020-01-27)
 
 
 ### Bug Fixes
@@ -422,7 +422,7 @@ updating to this version.
 
 
 
-## [3.0.1](https://github.com/nutoljs/nutol/compare/@nutol/build@3.0.0...@nutol/build@3.0.1) (2020-01-07)
+## [3.0.1](https://github.com/loopbackio/loopback-next/compare/@loopback/build@3.0.0...@nutol/build@3.0.1) (2020-01-07)
 
 **Note:** Version bump only for package @nutol/build
 
@@ -430,7 +430,7 @@ updating to this version.
 
 
 
-# [3.0.0](https://github.com/nutoljs/nutol/compare/@nutol/build@2.1.0...@nutol/build@3.0.0) (2019-12-09)
+# [3.0.0](https://github.com/loopbackio/loopback-next/compare/@loopback/build@2.1.0...@nutol/build@3.0.0) (2019-12-09)
 
 
 ### Features
@@ -454,7 +454,7 @@ See https://www.typescriptlang.org/docs/handbook/release-notes/typescript-2-7.ht
 
 
 
-# [2.1.0](https://github.com/nutoljs/nutol/compare/@nutol/build@2.0.16...@nutol/build@2.1.0) (2019-11-25)
+# [2.1.0](https://github.com/loopbackio/loopback-next/compare/@loopback/build@2.0.16...@nutol/build@2.1.0) (2019-11-25)
 
 
 ### Features
@@ -465,7 +465,7 @@ See https://www.typescriptlang.org/docs/handbook/release-notes/typescript-2-7.ht
 
 
 
-## [2.0.16](https://github.com/nutoljs/nutol/compare/@nutol/build@2.0.15...@nutol/build@2.0.16) (2019-11-12)
+## [2.0.16](https://github.com/loopbackio/loopback-next/compare/@loopback/build@2.0.15...@nutol/build@2.0.16) (2019-11-12)
 
 **Note:** Version bump only for package @nutol/build
 
@@ -473,7 +473,7 @@ See https://www.typescriptlang.org/docs/handbook/release-notes/typescript-2-7.ht
 
 
 
-## [2.0.15](https://github.com/nutoljs/nutol/compare/@nutol/build@2.0.14...@nutol/build@2.0.15) (2019-10-24)
+## [2.0.15](https://github.com/loopbackio/loopback-next/compare/@loopback/build@2.0.14...@nutol/build@2.0.15) (2019-10-24)
 
 **Note:** Version bump only for package @nutol/build
 
@@ -481,7 +481,7 @@ See https://www.typescriptlang.org/docs/handbook/release-notes/typescript-2-7.ht
 
 
 
-## [2.0.14](https://github.com/nutoljs/nutol/compare/@nutol/build@2.0.13...@nutol/build@2.0.14) (2019-10-07)
+## [2.0.14](https://github.com/loopbackio/loopback-next/compare/@loopback/build@2.0.13...@nutol/build@2.0.14) (2019-10-07)
 
 **Note:** Version bump only for package @nutol/build
 
@@ -489,7 +489,7 @@ See https://www.typescriptlang.org/docs/handbook/release-notes/typescript-2-7.ht
 
 
 
-## [2.0.13](https://github.com/nutoljs/nutol/compare/@nutol/build@2.0.12...@nutol/build@2.0.13) (2019-09-28)
+## [2.0.13](https://github.com/loopbackio/loopback-next/compare/@loopback/build@2.0.12...@nutol/build@2.0.13) (2019-09-28)
 
 **Note:** Version bump only for package @nutol/build
 
@@ -497,7 +497,7 @@ See https://www.typescriptlang.org/docs/handbook/release-notes/typescript-2-7.ht
 
 
 
-## [2.0.12](https://github.com/nutoljs/nutol/compare/@nutol/build@2.0.11...@nutol/build@2.0.12) (2019-09-27)
+## [2.0.12](https://github.com/loopbackio/loopback-next/compare/@loopback/build@2.0.11...@nutol/build@2.0.12) (2019-09-27)
 
 **Note:** Version bump only for package @nutol/build
 
@@ -505,7 +505,7 @@ See https://www.typescriptlang.org/docs/handbook/release-notes/typescript-2-7.ht
 
 
 
-## [2.0.11](https://github.com/nutoljs/nutol/compare/@nutol/build@2.0.10...@nutol/build@2.0.11) (2019-09-17)
+## [2.0.11](https://github.com/loopbackio/loopback-next/compare/@loopback/build@2.0.10...@nutol/build@2.0.11) (2019-09-17)
 
 **Note:** Version bump only for package @nutol/build
 
@@ -513,7 +513,7 @@ See https://www.typescriptlang.org/docs/handbook/release-notes/typescript-2-7.ht
 
 
 
-## [2.0.10](https://github.com/nutoljs/nutol/compare/@nutol/build@2.0.9...@nutol/build@2.0.10) (2019-09-06)
+## [2.0.10](https://github.com/loopbackio/loopback-next/compare/@loopback/build@2.0.9...@nutol/build@2.0.10) (2019-09-06)
 
 **Note:** Version bump only for package @nutol/build
 
@@ -521,7 +521,7 @@ See https://www.typescriptlang.org/docs/handbook/release-notes/typescript-2-7.ht
 
 
 
-## [2.0.9](https://github.com/nutoljs/nutol/compare/@nutol/build@2.0.8...@nutol/build@2.0.9) (2019-09-03)
+## [2.0.9](https://github.com/loopbackio/loopback-next/compare/@loopback/build@2.0.8...@nutol/build@2.0.9) (2019-09-03)
 
 **Note:** Version bump only for package @nutol/build
 
@@ -529,7 +529,7 @@ See https://www.typescriptlang.org/docs/handbook/release-notes/typescript-2-7.ht
 
 
 
-## [2.0.8](https://github.com/nutoljs/nutol/compare/@nutol/build@2.0.7...@nutol/build@2.0.8) (2019-08-19)
+## [2.0.8](https://github.com/loopbackio/loopback-next/compare/@loopback/build@2.0.7...@nutol/build@2.0.8) (2019-08-19)
 
 **Note:** Version bump only for package @nutol/build
 
@@ -537,7 +537,7 @@ See https://www.typescriptlang.org/docs/handbook/release-notes/typescript-2-7.ht
 
 
 
-## [2.0.7](https://github.com/nutoljs/nutol/compare/@nutol/build@2.0.6...@nutol/build@2.0.7) (2019-08-15)
+## [2.0.7](https://github.com/loopbackio/loopback-next/compare/@loopback/build@2.0.6...@nutol/build@2.0.7) (2019-08-15)
 
 **Note:** Version bump only for package @nutol/build
 
@@ -545,7 +545,7 @@ See https://www.typescriptlang.org/docs/handbook/release-notes/typescript-2-7.ht
 
 
 
-## [2.0.6](https://github.com/nutoljs/nutol/compare/@nutol/build@2.0.5...@nutol/build@2.0.6) (2019-07-31)
+## [2.0.6](https://github.com/loopbackio/loopback-next/compare/@loopback/build@2.0.5...@nutol/build@2.0.6) (2019-07-31)
 
 **Note:** Version bump only for package @nutol/build
 
@@ -553,7 +553,7 @@ See https://www.typescriptlang.org/docs/handbook/release-notes/typescript-2-7.ht
 
 
 
-## [2.0.5](https://github.com/nutoljs/nutol/compare/@nutol/build@2.0.4...@nutol/build@2.0.5) (2019-07-26)
+## [2.0.5](https://github.com/loopbackio/loopback-next/compare/@loopback/build@2.0.4...@nutol/build@2.0.5) (2019-07-26)
 
 **Note:** Version bump only for package @nutol/build
 
@@ -561,7 +561,7 @@ See https://www.typescriptlang.org/docs/handbook/release-notes/typescript-2-7.ht
 
 
 
-## [2.0.4](https://github.com/nutoljs/nutol/compare/@nutol/build@2.0.3...@nutol/build@2.0.4) (2019-07-17)
+## [2.0.4](https://github.com/loopbackio/loopback-next/compare/@loopback/build@2.0.3...@nutol/build@2.0.4) (2019-07-17)
 
 **Note:** Version bump only for package @nutol/build
 
@@ -569,7 +569,7 @@ See https://www.typescriptlang.org/docs/handbook/release-notes/typescript-2-7.ht
 
 
 
-## [2.0.3](https://github.com/nutoljs/nutol/compare/@nutol/build@2.0.2...@nutol/build@2.0.3) (2019-06-28)
+## [2.0.3](https://github.com/loopbackio/loopback-next/compare/@loopback/build@2.0.2...@nutol/build@2.0.3) (2019-06-28)
 
 **Note:** Version bump only for package @nutol/build
 
@@ -577,7 +577,7 @@ See https://www.typescriptlang.org/docs/handbook/release-notes/typescript-2-7.ht
 
 
 
-## [2.0.2](https://github.com/nutoljs/nutol/compare/@nutol/build@2.0.1...@nutol/build@2.0.2) (2019-06-21)
+## [2.0.2](https://github.com/loopbackio/loopback-next/compare/@loopback/build@2.0.1...@nutol/build@2.0.2) (2019-06-21)
 
 **Note:** Version bump only for package @nutol/build
 
@@ -585,7 +585,7 @@ See https://www.typescriptlang.org/docs/handbook/release-notes/typescript-2-7.ht
 
 
 
-## [2.0.1](https://github.com/nutoljs/nutol/compare/@nutol/build@2.0.0...@nutol/build@2.0.1) (2019-06-20)
+## [2.0.1](https://github.com/loopbackio/loopback-next/compare/@loopback/build@2.0.0...@nutol/build@2.0.1) (2019-06-20)
 
 **Note:** Version bump only for package @nutol/build
 
@@ -593,7 +593,7 @@ See https://www.typescriptlang.org/docs/handbook/release-notes/typescript-2-7.ht
 
 
 
-# [2.0.0](https://github.com/nutoljs/nutol/compare/@nutol/build@1.7.1...@nutol/build@2.0.0) (2019-06-17)
+# [2.0.0](https://github.com/loopbackio/loopback-next/compare/@loopback/build@1.7.1...@nutol/build@2.0.0) (2019-06-17)
 
 
 ### Bug Fixes
@@ -641,7 +641,7 @@ of `nb-tslint`.
     Alternatively, you can migrate from tslint to eslint and use the
     recently introduced helper `nb-eslint`.
 
-## [1.7.1](https://github.com/nutoljs/nutol/compare/@nutol/build@1.7.0...@nutol/build@1.7.1) (2019-06-06)
+## [1.7.1](https://github.com/loopbackio/loopback-next/compare/@loopback/build@1.7.0...@nutol/build@1.7.1) (2019-06-06)
 
 **Note:** Version bump only for package @nutol/build
 
@@ -649,7 +649,7 @@ of `nb-tslint`.
 
 
 
-# [1.7.0](https://github.com/nutoljs/nutol/compare/@nutol/build@1.6.1...@nutol/build@1.7.0) (2019-06-03)
+# [1.7.0](https://github.com/loopbackio/loopback-next/compare/@loopback/build@1.6.1...@nutol/build@1.7.0) (2019-06-03)
 
 
 ### Features
@@ -660,7 +660,7 @@ of `nb-tslint`.
 
 
 
-## [1.6.1](https://github.com/nutoljs/nutol/compare/@nutol/build@1.6.0...@nutol/build@1.6.1) (2019-05-31)
+## [1.6.1](https://github.com/loopbackio/loopback-next/compare/@loopback/build@1.6.0...@nutol/build@1.6.1) (2019-05-31)
 
 **Note:** Version bump only for package @nutol/build
 
@@ -668,7 +668,7 @@ of `nb-tslint`.
 
 
 
-# [1.6.0](https://github.com/nutoljs/nutol/compare/@nutol/build@1.5.5...@nutol/build@1.6.0) (2019-05-30)
+# [1.6.0](https://github.com/loopbackio/loopback-next/compare/@loopback/build@1.5.5...@nutol/build@1.6.0) (2019-05-30)
 
 
 ### Features
@@ -680,7 +680,7 @@ of `nb-tslint`.
 
 
 
-## [1.5.5](https://github.com/nutoljs/nutol/compare/@nutol/build@1.5.4...@nutol/build@1.5.5) (2019-05-23)
+## [1.5.5](https://github.com/loopbackio/loopback-next/compare/@loopback/build@1.5.4...@nutol/build@1.5.5) (2019-05-23)
 
 **Note:** Version bump only for package @nutol/build
 
@@ -688,7 +688,7 @@ of `nb-tslint`.
 
 
 
-## [1.5.4](https://github.com/nutoljs/nutol/compare/@nutol/build@1.5.3...@nutol/build@1.5.4) (2019-05-14)
+## [1.5.4](https://github.com/loopbackio/loopback-next/compare/@loopback/build@1.5.3...@nutol/build@1.5.4) (2019-05-14)
 
 **Note:** Version bump only for package @nutol/build
 
@@ -696,7 +696,7 @@ of `nb-tslint`.
 
 
 
-## [1.5.3](https://github.com/nutoljs/nutol/compare/@nutol/build@1.5.2...@nutol/build@1.5.3) (2019-05-10)
+## [1.5.3](https://github.com/loopbackio/loopback-next/compare/@loopback/build@1.5.2...@nutol/build@1.5.3) (2019-05-10)
 
 
 ### Bug Fixes
@@ -707,7 +707,7 @@ of `nb-tslint`.
 
 
 
-## [1.5.2](https://github.com/nutoljs/nutol/compare/@nutol/build@1.5.1...@nutol/build@1.5.2) (2019-05-09)
+## [1.5.2](https://github.com/loopbackio/loopback-next/compare/@loopback/build@1.5.1...@nutol/build@1.5.2) (2019-05-09)
 
 **Note:** Version bump only for package @nutol/build
 
@@ -715,7 +715,7 @@ of `nb-tslint`.
 
 
 
-## [1.5.1](https://github.com/nutoljs/nutol/compare/@nutol/build@1.5.0...@nutol/build@1.5.1) (2019-05-06)
+## [1.5.1](https://github.com/loopbackio/loopback-next/compare/@loopback/build@1.5.0...@nutol/build@1.5.1) (2019-05-06)
 
 **Note:** Version bump only for package @nutol/build
 
@@ -723,7 +723,7 @@ of `nb-tslint`.
 
 
 
-# [1.5.0](https://github.com/nutoljs/nutol/compare/@nutol/build@1.4.3...@nutol/build@1.5.0) (2019-04-20)
+# [1.5.0](https://github.com/loopbackio/loopback-next/compare/@loopback/build@1.4.3...@nutol/build@1.5.0) (2019-04-20)
 
 
 ### Features
@@ -734,7 +734,7 @@ of `nb-tslint`.
 
 
 
-## [1.4.3](https://github.com/nutoljs/nutol/compare/@nutol/build@1.4.2...@nutol/build@1.4.3) (2019-04-11)
+## [1.4.3](https://github.com/loopbackio/loopback-next/compare/@loopback/build@1.4.2...@nutol/build@1.4.3) (2019-04-11)
 
 **Note:** Version bump only for package @nutol/build
 
@@ -742,7 +742,7 @@ of `nb-tslint`.
 
 
 
-## [1.4.2](https://github.com/nutoljs/nutol/compare/@nutol/build@1.4.1...@nutol/build@1.4.2) (2019-04-09)
+## [1.4.2](https://github.com/loopbackio/loopback-next/compare/@loopback/build@1.4.1...@nutol/build@1.4.2) (2019-04-09)
 
 **Note:** Version bump only for package @nutol/build
 
@@ -750,7 +750,7 @@ of `nb-tslint`.
 
 
 
-## [1.4.1](https://github.com/nutoljs/nutol/compare/@nutol/build@1.4.0...@nutol/build@1.4.1) (2019-04-05)
+## [1.4.1](https://github.com/loopbackio/loopback-next/compare/@loopback/build@1.4.0...@nutol/build@1.4.1) (2019-04-05)
 
 **Note:** Version bump only for package @nutol/build
 
@@ -758,7 +758,7 @@ of `nb-tslint`.
 
 
 
-# [1.4.0](https://github.com/nutoljs/nutol/compare/@nutol/build@1.3.2...@nutol/build@1.4.0) (2019-03-22)
+# [1.4.0](https://github.com/loopbackio/loopback-next/compare/@loopback/build@1.3.2...@nutol/build@1.4.0) (2019-03-22)
 
 
 ### Bug Fixes
@@ -774,7 +774,7 @@ of `nb-tslint`.
 
 
 
-## [1.3.2](https://github.com/nutoljs/nutol/compare/@nutol/build@1.3.1...@nutol/build@1.3.2) (2019-03-12)
+## [1.3.2](https://github.com/loopbackio/loopback-next/compare/@loopback/build@1.3.1...@nutol/build@1.3.2) (2019-03-12)
 
 **Note:** Version bump only for package @nutol/build
 
@@ -782,7 +782,7 @@ of `nb-tslint`.
 
 
 
-## [1.3.1](https://github.com/nutoljs/nutol/compare/@nutol/build@1.3.0...@nutol/build@1.3.1) (2019-02-25)
+## [1.3.1](https://github.com/loopbackio/loopback-next/compare/@loopback/build@1.3.0...@nutol/build@1.3.1) (2019-02-25)
 
 
 ### Bug Fixes
@@ -793,7 +793,7 @@ of `nb-tslint`.
 
 
 
-# [1.3.0](https://github.com/nutoljs/nutol/compare/@nutol/build@1.2.1...@nutol/build@1.3.0) (2019-02-08)
+# [1.3.0](https://github.com/loopbackio/loopback-next/compare/@loopback/build@1.2.1...@nutol/build@1.3.0) (2019-02-08)
 
 
 ### Features
@@ -804,7 +804,7 @@ of `nb-tslint`.
 
 
 
-## [1.2.1](https://github.com/nutoljs/nutol/compare/@nutol/build@1.2.0...@nutol/build@1.2.1) (2019-01-28)
+## [1.2.1](https://github.com/loopbackio/loopback-next/compare/@loopback/build@1.2.0...@nutol/build@1.2.1) (2019-01-28)
 
 **Note:** Version bump only for package @nutol/build
 
@@ -812,7 +812,7 @@ of `nb-tslint`.
 
 
 
-# [1.2.0](https://github.com/nutoljs/nutol/compare/@nutol/build@1.1.0...@nutol/build@1.2.0) (2019-01-14)
+# [1.2.0](https://github.com/loopbackio/loopback-next/compare/@loopback/build@1.1.0...@nutol/build@1.2.0) (2019-01-14)
 
 
 ### Bug Fixes
@@ -828,7 +828,7 @@ of `nb-tslint`.
 
 
 
-# [1.1.0](https://github.com/nutoljs/nutol/compare/@nutol/build@1.0.2...@nutol/build@1.1.0) (2018-12-20)
+# [1.1.0](https://github.com/loopbackio/loopback-next/compare/@loopback/build@1.0.2...@nutol/build@1.1.0) (2018-12-20)
 
 
 ### Features
@@ -839,7 +839,7 @@ of `nb-tslint`.
 
 
 
-## [1.0.2](https://github.com/nutoljs/nutol/compare/@nutol/build@1.0.1...@nutol/build@1.0.2) (2018-12-13)
+## [1.0.2](https://github.com/loopbackio/loopback-next/compare/@loopback/build@1.0.1...@nutol/build@1.0.2) (2018-12-13)
 
 **Note:** Version bump only for package @nutol/build
 
@@ -848,7 +848,7 @@ of `nb-tslint`.
 
 
 <a name="1.0.1"></a>
-## [1.0.1](https://github.com/nutoljs/nutol/compare/@nutol/build@1.0.0...@nutol/build@1.0.1) (2018-11-08)
+## [1.0.1](https://github.com/loopbackio/loopback-next/compare/@loopback/build@1.0.0...@nutol/build@1.0.1) (2018-11-08)
 
 
 ### Bug Fixes
@@ -860,7 +860,7 @@ of `nb-tslint`.
 
 
 <a name="0.8.0"></a>
-# [0.8.0](https://github.com/nutoljs/nutol/compare/@nutol/build@0.7.6...@nutol/build@0.8.0) (2018-10-08)
+# [0.8.0](https://github.com/loopbackio/loopback-next/compare/@loopback/build@0.7.6...@nutol/build@0.8.0) (2018-10-08)
 
 
 ### Features
@@ -873,7 +873,7 @@ of `nb-tslint`.
 
 
 <a name="0.7.6"></a>
-## [0.7.6](https://github.com/nutoljs/nutol/compare/@nutol/build@0.7.5...@nutol/build@0.7.6) (2018-10-05)
+## [0.7.6](https://github.com/loopbackio/loopback-next/compare/@loopback/build@0.7.5...@nutol/build@0.7.6) (2018-10-05)
 
 
 ### Bug Fixes
@@ -885,7 +885,7 @@ of `nb-tslint`.
 
 
 <a name="0.7.5"></a>
-## [0.7.5](https://github.com/nutoljs/nutol/compare/@nutol/build@0.7.4...@nutol/build@0.7.5) (2018-10-03)
+## [0.7.5](https://github.com/loopbackio/loopback-next/compare/@loopback/build@0.7.4...@nutol/build@0.7.5) (2018-10-03)
 
 **Note:** Version bump only for package @nutol/build
 
@@ -894,7 +894,7 @@ of `nb-tslint`.
 
 
 <a name="0.7.4"></a>
-## [0.7.4](https://github.com/nutoljs/nutol/compare/@nutol/build@0.7.3...@nutol/build@0.7.4) (2018-09-27)
+## [0.7.4](https://github.com/loopbackio/loopback-next/compare/@loopback/build@0.7.3...@nutol/build@0.7.4) (2018-09-27)
 
 **Note:** Version bump only for package @nutol/build
 
@@ -903,7 +903,7 @@ of `nb-tslint`.
 
 
 <a name="0.7.3"></a>
-## [0.7.3](https://github.com/nutoljs/nutol/compare/@nutol/build@0.7.2...@nutol/build@0.7.3) (2018-09-12)
+## [0.7.3](https://github.com/loopbackio/loopback-next/compare/@loopback/build@0.7.2...@nutol/build@0.7.3) (2018-09-12)
 
 **Note:** Version bump only for package @nutol/build
 
@@ -912,7 +912,7 @@ of `nb-tslint`.
 
 
 <a name="0.7.2"></a>
-## [0.7.2](https://github.com/nutoljs/nutol/compare/@nutol/build@0.7.1...@nutol/build@0.7.2) (2018-09-08)
+## [0.7.2](https://github.com/loopbackio/loopback-next/compare/@loopback/build@0.7.1...@nutol/build@0.7.2) (2018-09-08)
 
 **Note:** Version bump only for package @nutol/build
 
@@ -921,7 +921,7 @@ of `nb-tslint`.
 
 
 <a name="0.7.1"></a>
-## [0.7.1](https://github.com/nutoljs/nutol/compare/@nutol/build@0.7.0...@nutol/build@0.7.1) (2018-08-24)
+## [0.7.1](https://github.com/loopbackio/loopback-next/compare/@loopback/build@0.7.0...@nutol/build@0.7.1) (2018-08-24)
 
 **Note:** Version bump only for package @nutol/build
 
@@ -930,7 +930,7 @@ of `nb-tslint`.
 
 
 <a name="0.7.0"></a>
-# [0.7.0](https://github.com/nutoljs/nutol/compare/@nutol/build@0.6.14...@nutol/build@0.7.0) (2018-08-15)
+# [0.7.0](https://github.com/loopbackio/loopback-next/compare/@loopback/build@0.6.14...@nutol/build@0.7.0) (2018-08-15)
 
 
 ### Features
@@ -941,7 +941,7 @@ of `nb-tslint`.
 
 
 <a name="0.6.14"></a>
-## [0.6.14](https://github.com/nutoljs/nutol/compare/@nutol/build@0.6.13...@nutol/build@0.6.14) (2018-08-08)
+## [0.6.14](https://github.com/loopbackio/loopback-next/compare/@loopback/build@0.6.13...@nutol/build@0.6.14) (2018-08-08)
 
 
 
@@ -949,7 +949,7 @@ of `nb-tslint`.
 **Note:** Version bump only for package @nutol/build
 
 <a name="0.6.13"></a>
-## [0.6.13](https://github.com/nutoljs/nutol/compare/@nutol/build@0.6.12...@nutol/build@0.6.13) (2018-07-21)
+## [0.6.13](https://github.com/loopbackio/loopback-next/compare/@loopback/build@0.6.12...@nutol/build@0.6.13) (2018-07-21)
 
 
 
@@ -957,7 +957,7 @@ of `nb-tslint`.
 **Note:** Version bump only for package @nutol/build
 
 <a name="0.6.12"></a>
-## [0.6.12](https://github.com/nutoljs/nutol/compare/@nutol/build@0.6.11...@nutol/build@0.6.12) (2018-07-20)
+## [0.6.12](https://github.com/loopbackio/loopback-next/compare/@loopback/build@0.6.11...@nutol/build@0.6.12) (2018-07-20)
 
 
 
@@ -965,7 +965,7 @@ of `nb-tslint`.
 **Note:** Version bump only for package @nutol/build
 
 <a name="0.6.11"></a>
-## [0.6.11](https://github.com/nutoljs/nutol/compare/@nutol/build@0.6.10...@nutol/build@0.6.11) (2018-06-28)
+## [0.6.11](https://github.com/loopbackio/loopback-next/compare/@loopback/build@0.6.10...@nutol/build@0.6.11) (2018-06-28)
 
 
 
@@ -973,7 +973,7 @@ of `nb-tslint`.
 **Note:** Version bump only for package @nutol/build
 
 <a name="0.6.10"></a>
-## [0.6.10](https://github.com/nutoljs/nutol/compare/@nutol/build@0.6.9...@nutol/build@0.6.10) (2018-06-27)
+## [0.6.10](https://github.com/loopbackio/loopback-next/compare/@loopback/build@0.6.9...@nutol/build@0.6.10) (2018-06-27)
 
 
 ### Bug Fixes
@@ -984,7 +984,7 @@ of `nb-tslint`.
 
 
 <a name="0.6.9"></a>
-## [0.6.9](https://github.com/nutoljs/nutol/compare/@nutol/build@0.6.8...@nutol/build@0.6.9) (2018-06-20)
+## [0.6.9](https://github.com/loopbackio/loopback-next/compare/@loopback/build@0.6.8...@nutol/build@0.6.9) (2018-06-20)
 
 
 
@@ -992,7 +992,7 @@ of `nb-tslint`.
 **Note:** Version bump only for package @nutol/build
 
 <a name="0.6.8"></a>
-## [0.6.8](https://github.com/nutoljs/nutol/compare/@nutol/build@0.6.6...@nutol/build@0.6.8) (2018-06-09)
+## [0.6.8](https://github.com/loopbackio/loopback-next/compare/@loopback/build@0.6.6...@nutol/build@0.6.8) (2018-06-09)
 
 
 
@@ -1000,7 +1000,7 @@ of `nb-tslint`.
 **Note:** Version bump only for package @nutol/build
 
 <a name="0.6.7"></a>
-## [0.6.7](https://github.com/nutoljs/nutol/compare/@nutol/build@0.6.6...@nutol/build@0.6.7) (2018-06-09)
+## [0.6.7](https://github.com/loopbackio/loopback-next/compare/@loopback/build@0.6.6...@nutol/build@0.6.7) (2018-06-09)
 
 
 
@@ -1008,7 +1008,7 @@ of `nb-tslint`.
 **Note:** Version bump only for package @nutol/build
 
 <a name="0.6.6"></a>
-## [0.6.6](https://github.com/nutoljs/nutol/compare/@nutol/build@0.6.5...@nutol/build@0.6.6) (2018-06-08)
+## [0.6.6](https://github.com/loopbackio/loopback-next/compare/@loopback/build@0.6.5...@nutol/build@0.6.6) (2018-06-08)
 
 
 ### Bug Fixes
@@ -1019,7 +1019,7 @@ of `nb-tslint`.
 
 
 <a name="0.6.5"></a>
-## [0.6.5](https://github.com/nutoljs/nutol/compare/@nutol/build@0.6.4...@nutol/build@0.6.5) (2018-05-20)
+## [0.6.5](https://github.com/loopbackio/loopback-next/compare/@loopback/build@0.6.4...@nutol/build@0.6.5) (2018-05-20)
 
 
 
@@ -1027,7 +1027,7 @@ of `nb-tslint`.
 **Note:** Version bump only for package @nutol/build
 
 <a name="0.6.4"></a>
-## [0.6.4](https://github.com/nutoljs/nutol/compare/@nutol/build@0.6.3...@nutol/build@0.6.4) (2018-05-14)
+## [0.6.4](https://github.com/loopbackio/loopback-next/compare/@loopback/build@0.6.3...@nutol/build@0.6.4) (2018-05-14)
 
 
 
@@ -1035,7 +1035,7 @@ of `nb-tslint`.
 **Note:** Version bump only for package @nutol/build
 
 <a name="0.6.3"></a>
-## [0.6.3](https://github.com/nutoljs/nutol/compare/@nutol/build@0.6.2...@nutol/build@0.6.3) (2018-05-08)
+## [0.6.3](https://github.com/loopbackio/loopback-next/compare/@loopback/build@0.6.2...@nutol/build@0.6.3) (2018-05-08)
 
 
 
@@ -1043,7 +1043,7 @@ of `nb-tslint`.
 **Note:** Version bump only for package @nutol/build
 
 <a name="0.6.2"></a>
-## [0.6.2](https://github.com/nutoljs/nutol/compare/@nutol/build@0.6.0...@nutol/build@0.6.2) (2018-05-03)
+## [0.6.2](https://github.com/loopbackio/loopback-next/compare/@loopback/build@0.6.0...@nutol/build@0.6.2) (2018-05-03)
 
 
 
@@ -1051,7 +1051,7 @@ of `nb-tslint`.
 **Note:** Version bump only for package @nutol/build
 
 <a name="0.6.1"></a>
-## [0.6.1](https://github.com/nutoljs/nutol/compare/@nutol/build@0.6.0...@nutol/build@0.6.1) (2018-05-03)
+## [0.6.1](https://github.com/loopbackio/loopback-next/compare/@loopback/build@0.6.0...@nutol/build@0.6.1) (2018-05-03)
 
 
 
@@ -1059,7 +1059,7 @@ of `nb-tslint`.
 **Note:** Version bump only for package @nutol/build
 
 <a name="0.6.0"></a>
-# [0.6.0](https://github.com/nutoljs/nutol/compare/@nutol/build@0.5.0...@nutol/build@0.6.0) (2018-04-25)
+# [0.6.0](https://github.com/loopbackio/loopback-next/compare/@loopback/build@0.5.0...@nutol/build@0.6.0) (2018-04-25)
 
 
 ### Features
@@ -1070,7 +1070,7 @@ of `nb-tslint`.
 
 
 <a name="0.5.0"></a>
-# [0.5.0](https://github.com/nutoljs/nutol/compare/@nutol/build@0.4.3...@nutol/build@0.5.0) (2018-04-16)
+# [0.5.0](https://github.com/loopbackio/loopback-next/compare/@loopback/build@0.4.3...@nutol/build@0.5.0) (2018-04-16)
 
 
 
@@ -1078,7 +1078,7 @@ of `nb-tslint`.
 **Note:** Version bump only for package @nutol/build
 
 <a name="0.4.3"></a>
-## [0.4.3](https://github.com/nutoljs/nutol/compare/@nutol/build@0.4.1...@nutol/build@0.4.3) (2018-04-11)
+## [0.4.3](https://github.com/loopbackio/loopback-next/compare/@loopback/build@0.4.1...@nutol/build@0.4.3) (2018-04-11)
 
 
 ### Bug Fixes
@@ -1090,7 +1090,7 @@ of `nb-tslint`.
 
 
 <a name="0.4.2"></a>
-## [0.4.2](https://github.com/nutoljs/nutol/compare/@nutol/build@0.4.1...@nutol/build@0.4.2) (2018-04-06)
+## [0.4.2](https://github.com/loopbackio/loopback-next/compare/@loopback/build@0.4.1...@nutol/build@0.4.2) (2018-04-06)
 
 
 
@@ -1098,7 +1098,7 @@ of `nb-tslint`.
 **Note:** Version bump only for package @nutol/build
 
 <a name="0.4.1"></a>
-## [0.4.1](https://github.com/nutoljs/nutol/compare/@nutol/build@0.4.0...@nutol/build@0.4.1) (2018-04-02)
+## [0.4.1](https://github.com/loopbackio/loopback-next/compare/@loopback/build@0.4.0...@nutol/build@0.4.1) (2018-04-02)
 
 
 
@@ -1106,7 +1106,7 @@ of `nb-tslint`.
 **Note:** Version bump only for package @nutol/build
 
 <a name="0.4.0"></a>
-# [0.4.0](https://github.com/nutoljs/nutol/compare/@nutol/build@0.3.3...@nutol/build@0.4.0) (2018-03-29)
+# [0.4.0](https://github.com/loopbackio/loopback-next/compare/@loopback/build@0.3.3...@nutol/build@0.4.0) (2018-03-29)
 
 
 
@@ -1114,7 +1114,7 @@ of `nb-tslint`.
 **Note:** Version bump only for package @nutol/build
 
 <a name="0.3.3"></a>
-## [0.3.3](https://github.com/nutoljs/nutol/compare/@nutol/build@0.3.2...@nutol/build@0.3.3) (2018-03-23)
+## [0.3.3](https://github.com/loopbackio/loopback-next/compare/@loopback/build@0.3.2...@nutol/build@0.3.3) (2018-03-23)
 
 
 ### Bug Fixes
@@ -1127,7 +1127,7 @@ of `nb-tslint`.
 
 
 <a name="0.3.2"></a>
-## [0.3.2](https://github.com/nutoljs/nutol/compare/@nutol/build@0.3.1...@nutol/build@0.3.2) (2018-03-14)
+## [0.3.2](https://github.com/loopbackio/loopback-next/compare/@loopback/build@0.3.1...@nutol/build@0.3.2) (2018-03-14)
 
 
 
@@ -1135,7 +1135,7 @@ of `nb-tslint`.
 **Note:** Version bump only for package @nutol/build
 
 <a name="0.3.1"></a>
-## [0.3.1](https://github.com/nutoljs/nutol/compare/@nutol/build@0.3.0...@nutol/build@0.3.1) (2018-03-13)
+## [0.3.1](https://github.com/loopbackio/loopback-next/compare/@loopback/build@0.3.0...@nutol/build@0.3.1) (2018-03-13)
 
 
 ### Bug Fixes
@@ -1146,7 +1146,7 @@ of `nb-tslint`.
 
 
 <a name="0.3.0"></a>
-# [0.3.0](https://github.com/nutoljs/nutol/compare/@nutol/build@0.2.0...@nutol/build@0.3.0) (2018-03-08)
+# [0.3.0](https://github.com/loopbackio/loopback-next/compare/@loopback/build@0.2.0...@nutol/build@0.3.0) (2018-03-08)
 
 
 ### Bug Fixes
@@ -1162,7 +1162,7 @@ of `nb-tslint`.
 
 
 <a name="0.2.0"></a>
-# [0.2.0](https://github.com/nutoljs/nutol/compare/@nutol/build@0.1.2...@nutol/build@0.2.0) (2018-03-01)
+# [0.2.0](https://github.com/loopbackio/loopback-next/compare/@loopback/build@0.1.2...@nutol/build@0.2.0) (2018-03-01)
 
 
 
@@ -1170,7 +1170,7 @@ of `nb-tslint`.
 **Note:** Version bump only for package @nutol/build
 
 <a name="0.1.2"></a>
-## [0.1.2](https://github.com/nutoljs/nutol/compare/@nutol/build@0.1.1...@nutol/build@0.1.2) (2018-03-01)
+## [0.1.2](https://github.com/loopbackio/loopback-next/compare/@loopback/build@0.1.1...@nutol/build@0.1.2) (2018-03-01)
 
 
 ### Features
@@ -1201,7 +1201,7 @@ userland Promise instance to a native Promise via
 
 
 <a name="0.1.1"></a>
-## [0.1.1](https://github.com/nutoljs/nutol/compare/@nutol/build@0.1.0...@nutol/build@0.1.1) (2018-02-23)
+## [0.1.1](https://github.com/loopbackio/loopback-next/compare/@loopback/build@0.1.0...@nutol/build@0.1.1) (2018-02-23)
 
 
 
@@ -1209,7 +1209,7 @@ userland Promise instance to a native Promise via
 **Note:** Version bump only for package @nutol/build
 
 <a name="0.1.0"></a>
-# [0.1.0](https://github.com/nutoljs/nutol/compare/@nutol/build@4.0.0-alpha.13...@nutol/build@0.1.0) (2018-02-21)
+# [0.1.0](https://github.com/loopbackio/loopback-next/compare/@loopback/build@4.0.0-alpha.13...@nutol/build@0.1.0) (2018-02-21)
 
 
 
@@ -1217,7 +1217,7 @@ userland Promise instance to a native Promise via
 **Note:** Version bump only for package @nutol/build
 
 <a name="4.0.0-alpha.13"></a>
-# [4.0.0-alpha.13](https://github.com/nutoljs/nutol/compare/@nutol/build@4.0.0-alpha.12...@nutol/build@4.0.0-alpha.13) (2018-02-04)
+# [4.0.0-alpha.13](https://github.com/loopbackio/loopback-next/compare/@loopback/build@4.0.0-alpha.12...@nutol/build@4.0.0-alpha.13) (2018-02-04)
 
 
 
@@ -1225,7 +1225,7 @@ userland Promise instance to a native Promise via
 **Note:** Version bump only for package @nutol/build
 
 <a name="4.0.0-alpha.12"></a>
-# [4.0.0-alpha.12](https://github.com/nutoljs/nutol/compare/@nutol/build@4.0.0-alpha.11...@nutol/build@4.0.0-alpha.12) (2018-01-30)
+# [4.0.0-alpha.12](https://github.com/loopbackio/loopback-next/compare/@loopback/build@4.0.0-alpha.11...@nutol/build@4.0.0-alpha.12) (2018-01-30)
 
 
 ### Bug Fixes
@@ -1236,7 +1236,7 @@ userland Promise instance to a native Promise via
 
 
 <a name="4.0.0-alpha.11"></a>
-# [4.0.0-alpha.11](https://github.com/nutoljs/nutol/compare/@nutol/build@4.0.0-alpha.10...@nutol/build@4.0.0-alpha.11) (2018-01-29)
+# [4.0.0-alpha.11](https://github.com/loopbackio/loopback-next/compare/@loopback/build@4.0.0-alpha.10...@nutol/build@4.0.0-alpha.11) (2018-01-29)
 
 
 ### Bug Fixes
@@ -1247,7 +1247,7 @@ userland Promise instance to a native Promise via
 
 
 <a name="4.0.0-alpha.10"></a>
-# [4.0.0-alpha.10](https://github.com/nutoljs/nutol/compare/@nutol/build@4.0.0-alpha.9...@nutol/build@4.0.0-alpha.10) (2018-01-26)
+# [4.0.0-alpha.10](https://github.com/loopbackio/loopback-next/compare/@loopback/build@4.0.0-alpha.9...@nutol/build@4.0.0-alpha.10) (2018-01-26)
 
 
 ### Bug Fixes
@@ -1259,7 +1259,7 @@ userland Promise instance to a native Promise via
 
 
 <a name="4.0.0-alpha.9"></a>
-# [4.0.0-alpha.9](https://github.com/nutoljs/nutol/compare/@nutol/build@4.0.0-alpha.8...@nutol/build@4.0.0-alpha.9) (2018-01-19)
+# [4.0.0-alpha.9](https://github.com/loopbackio/loopback-next/compare/@loopback/build@4.0.0-alpha.8...@nutol/build@4.0.0-alpha.9) (2018-01-19)
 
 
 ### Bug Fixes
@@ -1270,7 +1270,7 @@ userland Promise instance to a native Promise via
 
 
 <a name="4.0.0-alpha.8"></a>
-# [4.0.0-alpha.8](https://github.com/nutoljs/nutol/compare/@nutol/build@4.0.0-alpha.7...@nutol/build@4.0.0-alpha.8) (2018-01-11)
+# [4.0.0-alpha.8](https://github.com/loopbackio/loopback-next/compare/@loopback/build@4.0.0-alpha.7...@nutol/build@4.0.0-alpha.8) (2018-01-11)
 
 
 ### Bug Fixes

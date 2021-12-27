@@ -14,7 +14,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [12.0.0](https://github.com/nutoljs/nutol/compare/@nutol/eslint-config@11.0.2...@nutol/eslint-config@12.0.0) (2021-11-18)
+# [12.0.0](https://github.com/loopbackio/loopback-next/compare/@loopback/eslint-config@11.0.2...@nutol/eslint-config@12.0.0) (2021-11-18)
 
 
 ### Features
@@ -35,7 +35,7 @@ Signed-off-by: Rifa Achrinza <25147899+achrinza@users.noreply.github.com>
 
 
 
-## [11.0.2](https://github.com/nutoljs/nutol/compare/@nutol/eslint-config@11.0.1...@nutol/eslint-config@11.0.2) (2021-10-18)
+## [11.0.2](https://github.com/loopbackio/loopback-next/compare/@loopback/eslint-config@11.0.1...@nutol/eslint-config@11.0.2) (2021-10-18)
 
 **Note:** Version bump only for package @nutol/eslint-config
 
@@ -43,7 +43,7 @@ Signed-off-by: Rifa Achrinza <25147899+achrinza@users.noreply.github.com>
 
 
 
-## [11.0.1](https://github.com/nutoljs/nutol/compare/@nutol/eslint-config@11.0.0...@nutol/eslint-config@11.0.1) (2021-09-16)
+## [11.0.1](https://github.com/loopbackio/loopback-next/compare/@loopback/eslint-config@11.0.0...@nutol/eslint-config@11.0.1) (2021-09-16)
 
 **Note:** Version bump only for package @nutol/eslint-config
 
@@ -51,7 +51,7 @@ Signed-off-by: Rifa Achrinza <25147899+achrinza@users.noreply.github.com>
 
 
 
-# [11.0.0](https://github.com/nutoljs/nutol/compare/@nutol/eslint-config@10.2.1...@nutol/eslint-config@11.0.0) (2021-07-15)
+# [11.0.0](https://github.com/loopbackio/loopback-next/compare/@loopback/eslint-config@10.2.1...@nutol/eslint-config@11.0.0) (2021-07-15)
 
 
 ### Features
@@ -70,7 +70,7 @@ Signed-off-by: Raymond Feng <enjoyjava@gmail.com>
 
 
 
-## [10.2.1](https://github.com/nutoljs/nutol/compare/@nutol/eslint-config@10.2.0...@nutol/eslint-config@10.2.1) (2021-06-10)
+## [10.2.1](https://github.com/loopbackio/loopback-next/compare/@loopback/eslint-config@10.2.0...@nutol/eslint-config@10.2.1) (2021-06-10)
 
 **Note:** Version bump only for package @nutol/eslint-config
 
@@ -78,7 +78,7 @@ Signed-off-by: Raymond Feng <enjoyjava@gmail.com>
 
 
 
-# [10.2.0](https://github.com/nutoljs/nutol/compare/@nutol/eslint-config@10.1.1...@nutol/eslint-config@10.2.0) (2021-05-03)
+# [10.2.0](https://github.com/loopbackio/loopback-next/compare/@loopback/eslint-config@10.1.1...@nutol/eslint-config@10.2.0) (2021-05-03)
 
 
 ### Features
@@ -89,7 +89,7 @@ Signed-off-by: Raymond Feng <enjoyjava@gmail.com>
 
 
 
-## [10.1.1](https://github.com/nutoljs/nutol/compare/@nutol/eslint-config@10.1.0...@nutol/eslint-config@10.1.1) (2021-04-06)
+## [10.1.1](https://github.com/loopbackio/loopback-next/compare/@loopback/eslint-config@10.1.0...@nutol/eslint-config@10.1.1) (2021-04-06)
 
 **Note:** Version bump only for package @nutol/eslint-config
 
@@ -97,7 +97,7 @@ Signed-off-by: Raymond Feng <enjoyjava@gmail.com>
 
 
 
-# [10.1.0](https://github.com/nutoljs/nutol/compare/@nutol/eslint-config@10.0.5...@nutol/eslint-config@10.1.0) (2021-03-18)
+# [10.1.0](https://github.com/loopbackio/loopback-next/compare/@loopback/eslint-config@10.0.5...@nutol/eslint-config@10.1.0) (2021-03-18)
 
 
 ### Bug Fixes
@@ -114,7 +114,7 @@ Signed-off-by: Raymond Feng <enjoyjava@gmail.com>
 
 
 
-## [10.0.5](https://github.com/nutoljs/nutol/compare/@nutol/eslint-config@10.0.4...@nutol/eslint-config@10.0.5) (2021-01-21)
+## [10.0.5](https://github.com/loopbackio/loopback-next/compare/@loopback/eslint-config@10.0.4...@nutol/eslint-config@10.0.5) (2021-01-21)
 
 **Note:** Version bump only for package @nutol/eslint-config
 
@@ -122,7 +122,7 @@ Signed-off-by: Raymond Feng <enjoyjava@gmail.com>
 
 
 
-## [10.0.4](https://github.com/nutoljs/nutol/compare/@nutol/eslint-config@10.0.3...@nutol/eslint-config@10.0.4) (2020-12-07)
+## [10.0.4](https://github.com/loopbackio/loopback-next/compare/@loopback/eslint-config@10.0.3...@nutol/eslint-config@10.0.4) (2020-12-07)
 
 **Note:** Version bump only for package @nutol/eslint-config
 
@@ -130,7 +130,7 @@ Signed-off-by: Raymond Feng <enjoyjava@gmail.com>
 
 
 
-## [10.0.3](https://github.com/nutoljs/nutol/compare/@nutol/eslint-config@10.0.2...@nutol/eslint-config@10.0.3) (2020-11-18)
+## [10.0.3](https://github.com/loopbackio/loopback-next/compare/@loopback/eslint-config@10.0.2...@nutol/eslint-config@10.0.3) (2020-11-18)
 
 **Note:** Version bump only for package @nutol/eslint-config
 
@@ -138,7 +138,7 @@ Signed-off-by: Raymond Feng <enjoyjava@gmail.com>
 
 
 
-## [10.0.2](https://github.com/nutoljs/nutol/compare/@nutol/eslint-config@10.0.1...@nutol/eslint-config@10.0.2) (2020-11-05)
+## [10.0.2](https://github.com/loopbackio/loopback-next/compare/@loopback/eslint-config@10.0.1...@nutol/eslint-config@10.0.2) (2020-11-05)
 
 **Note:** Version bump only for package @nutol/eslint-config
 
@@ -146,7 +146,7 @@ Signed-off-by: Raymond Feng <enjoyjava@gmail.com>
 
 
 
-## [10.0.1](https://github.com/nutoljs/nutol/compare/@nutol/eslint-config@10.0.0...@nutol/eslint-config@10.0.1) (2020-10-07)
+## [10.0.1](https://github.com/loopbackio/loopback-next/compare/@loopback/eslint-config@10.0.0...@nutol/eslint-config@10.0.1) (2020-10-07)
 
 **Note:** Version bump only for package @nutol/eslint-config
 
@@ -154,7 +154,7 @@ Signed-off-by: Raymond Feng <enjoyjava@gmail.com>
 
 
 
-# [10.0.0](https://github.com/nutoljs/nutol/compare/@nutol/eslint-config@9.0.2...@nutol/eslint-config@10.0.0) (2020-09-15)
+# [10.0.0](https://github.com/loopbackio/loopback-next/compare/@loopback/eslint-config@9.0.2...@nutol/eslint-config@10.0.0) (2020-09-15)
 
 
 ### Features
@@ -177,7 +177,7 @@ Signed-off-by: Raymond Feng <enjoyjava@gmail.com>
 
 
 
-## [9.0.2](https://github.com/nutoljs/nutol/compare/@nutol/eslint-config@9.0.1...@nutol/eslint-config@9.0.2) (2020-08-27)
+## [9.0.2](https://github.com/loopbackio/loopback-next/compare/@loopback/eslint-config@9.0.1...@nutol/eslint-config@9.0.2) (2020-08-27)
 
 **Note:** Version bump only for package @nutol/eslint-config
 
@@ -185,7 +185,7 @@ Signed-off-by: Raymond Feng <enjoyjava@gmail.com>
 
 
 
-## [9.0.1](https://github.com/nutoljs/nutol/compare/@nutol/eslint-config@9.0.0...@nutol/eslint-config@9.0.1) (2020-08-19)
+## [9.0.1](https://github.com/loopbackio/loopback-next/compare/@loopback/eslint-config@9.0.0...@nutol/eslint-config@9.0.1) (2020-08-19)
 
 **Note:** Version bump only for package @nutol/eslint-config
 
@@ -193,7 +193,7 @@ Signed-off-by: Raymond Feng <enjoyjava@gmail.com>
 
 
 
-# [9.0.0](https://github.com/nutoljs/nutol/compare/@nutol/eslint-config@8.0.4...@nutol/eslint-config@9.0.0) (2020-08-05)
+# [9.0.0](https://github.com/loopbackio/loopback-next/compare/@loopback/eslint-config@8.0.4...@nutol/eslint-config@9.0.0) (2020-08-05)
 
 
 ### Features
@@ -220,7 +220,7 @@ Signed-off-by: Miroslav Bajtoš <mbajtoss@gmail.com>
 
 
 
-## [8.0.4](https://github.com/nutoljs/nutol/compare/@nutol/eslint-config@8.0.3...@nutol/eslint-config@8.0.4) (2020-07-20)
+## [8.0.4](https://github.com/loopbackio/loopback-next/compare/@loopback/eslint-config@8.0.3...@nutol/eslint-config@8.0.4) (2020-07-20)
 
 **Note:** Version bump only for package @nutol/eslint-config
 
@@ -228,7 +228,7 @@ Signed-off-by: Miroslav Bajtoš <mbajtoss@gmail.com>
 
 
 
-## [8.0.3](https://github.com/nutoljs/nutol/compare/@nutol/eslint-config@8.0.2...@nutol/eslint-config@8.0.3) (2020-06-30)
+## [8.0.3](https://github.com/loopbackio/loopback-next/compare/@loopback/eslint-config@8.0.2...@nutol/eslint-config@8.0.3) (2020-06-30)
 
 **Note:** Version bump only for package @nutol/eslint-config
 
@@ -236,7 +236,7 @@ Signed-off-by: Miroslav Bajtoš <mbajtoss@gmail.com>
 
 
 
-## [8.0.2](https://github.com/nutoljs/nutol/compare/@nutol/eslint-config@8.0.1...@nutol/eslint-config@8.0.2) (2020-06-23)
+## [8.0.2](https://github.com/loopbackio/loopback-next/compare/@loopback/eslint-config@8.0.1...@nutol/eslint-config@8.0.2) (2020-06-23)
 
 
 ### Bug Fixes
@@ -247,7 +247,7 @@ Signed-off-by: Miroslav Bajtoš <mbajtoss@gmail.com>
 
 
 
-## [8.0.1](https://github.com/nutoljs/nutol/compare/@nutol/eslint-config@8.0.0...@nutol/eslint-config@8.0.1) (2020-06-11)
+## [8.0.1](https://github.com/loopbackio/loopback-next/compare/@loopback/eslint-config@8.0.0...@nutol/eslint-config@8.0.1) (2020-06-11)
 
 **Note:** Version bump only for package @nutol/eslint-config
 
@@ -255,7 +255,7 @@ Signed-off-by: Miroslav Bajtoš <mbajtoss@gmail.com>
 
 
 
-# [8.0.0](https://github.com/nutoljs/nutol/compare/@nutol/eslint-config@7.0.1...@nutol/eslint-config@8.0.0) (2020-05-28)
+# [8.0.0](https://github.com/loopbackio/loopback-next/compare/@loopback/eslint-config@7.0.1...@nutol/eslint-config@8.0.0) (2020-05-28)
 
 
 ### Features
@@ -277,7 +277,7 @@ https://github.com/typescript-eslint/typescript-eslint/releases/tag/v3.0.0
 
 
 
-## [7.0.1](https://github.com/nutoljs/nutol/compare/@nutol/eslint-config@7.0.0...@nutol/eslint-config@7.0.1) (2020-05-20)
+## [7.0.1](https://github.com/loopbackio/loopback-next/compare/@loopback/eslint-config@7.0.0...@nutol/eslint-config@7.0.1) (2020-05-20)
 
 **Note:** Version bump only for package @nutol/eslint-config
 
@@ -285,7 +285,7 @@ https://github.com/typescript-eslint/typescript-eslint/releases/tag/v3.0.0
 
 
 
-# [7.0.0](https://github.com/nutoljs/nutol/compare/@nutol/eslint-config@6.0.6...@nutol/eslint-config@7.0.0) (2020-05-19)
+# [7.0.0](https://github.com/loopbackio/loopback-next/compare/@loopback/eslint-config@6.0.6...@nutol/eslint-config@7.0.0) (2020-05-19)
 
 
 ### Features
@@ -340,7 +340,7 @@ project.
 
 
 
-## [6.0.6](https://github.com/nutoljs/nutol/compare/@nutol/eslint-config@6.0.5...@nutol/eslint-config@6.0.6) (2020-05-07)
+## [6.0.6](https://github.com/loopbackio/loopback-next/compare/@loopback/eslint-config@6.0.5...@nutol/eslint-config@6.0.6) (2020-05-07)
 
 **Note:** Version bump only for package @nutol/eslint-config
 
@@ -348,7 +348,7 @@ project.
 
 
 
-## [6.0.5](https://github.com/nutoljs/nutol/compare/@nutol/eslint-config@6.0.4...@nutol/eslint-config@6.0.5) (2020-04-29)
+## [6.0.5](https://github.com/loopbackio/loopback-next/compare/@loopback/eslint-config@6.0.4...@nutol/eslint-config@6.0.5) (2020-04-29)
 
 **Note:** Version bump only for package @nutol/eslint-config
 
@@ -356,7 +356,7 @@ project.
 
 
 
-## [6.0.4](https://github.com/nutoljs/nutol/compare/@nutol/eslint-config@6.0.3...@nutol/eslint-config@6.0.4) (2020-04-22)
+## [6.0.4](https://github.com/loopbackio/loopback-next/compare/@loopback/eslint-config@6.0.3...@nutol/eslint-config@6.0.4) (2020-04-22)
 
 **Note:** Version bump only for package @nutol/eslint-config
 
@@ -364,7 +364,7 @@ project.
 
 
 
-## [6.0.3](https://github.com/nutoljs/nutol/compare/@nutol/eslint-config@6.0.2...@nutol/eslint-config@6.0.3) (2020-04-08)
+## [6.0.3](https://github.com/loopbackio/loopback-next/compare/@loopback/eslint-config@6.0.2...@nutol/eslint-config@6.0.3) (2020-04-08)
 
 **Note:** Version bump only for package @nutol/eslint-config
 
@@ -372,7 +372,7 @@ project.
 
 
 
-## [6.0.2](https://github.com/nutoljs/nutol/compare/@nutol/eslint-config@6.0.1...@nutol/eslint-config@6.0.2) (2020-03-24)
+## [6.0.2](https://github.com/loopbackio/loopback-next/compare/@loopback/eslint-config@6.0.1...@nutol/eslint-config@6.0.2) (2020-03-24)
 
 **Note:** Version bump only for package @nutol/eslint-config
 
@@ -380,7 +380,7 @@ project.
 
 
 
-## [6.0.1](https://github.com/nutoljs/nutol/compare/@nutol/eslint-config@6.0.0...@nutol/eslint-config@6.0.1) (2020-03-17)
+## [6.0.1](https://github.com/loopbackio/loopback-next/compare/@loopback/eslint-config@6.0.0...@nutol/eslint-config@6.0.1) (2020-03-17)
 
 **Note:** Version bump only for package @nutol/eslint-config
 
@@ -388,7 +388,7 @@ project.
 
 
 
-# [6.0.0](https://github.com/nutoljs/nutol/compare/@nutol/eslint-config@5.0.3...@nutol/eslint-config@6.0.0) (2020-03-05)
+# [6.0.0](https://github.com/loopbackio/loopback-next/compare/@loopback/eslint-config@5.0.3...@nutol/eslint-config@6.0.0) (2020-03-05)
 
 
 ### chore
@@ -413,7 +413,7 @@ project.
 
 
 
-## [5.0.3](https://github.com/nutoljs/nutol/compare/@nutol/eslint-config@5.0.2...@nutol/eslint-config@5.0.3) (2020-02-05)
+## [5.0.3](https://github.com/loopbackio/loopback-next/compare/@loopback/eslint-config@5.0.2...@nutol/eslint-config@5.0.3) (2020-02-05)
 
 **Note:** Version bump only for package @nutol/eslint-config
 
@@ -421,7 +421,7 @@ project.
 
 
 
-## [5.0.2](https://github.com/nutoljs/nutol/compare/@nutol/eslint-config@5.0.1...@nutol/eslint-config@5.0.2) (2020-01-27)
+## [5.0.2](https://github.com/loopbackio/loopback-next/compare/@loopback/eslint-config@5.0.1...@nutol/eslint-config@5.0.2) (2020-01-27)
 
 **Note:** Version bump only for package @nutol/eslint-config
 
@@ -429,7 +429,7 @@ project.
 
 
 
-## [5.0.1](https://github.com/nutoljs/nutol/compare/@nutol/eslint-config@5.0.0...@nutol/eslint-config@5.0.1) (2020-01-07)
+## [5.0.1](https://github.com/loopbackio/loopback-next/compare/@loopback/eslint-config@5.0.0...@nutol/eslint-config@5.0.1) (2020-01-07)
 
 **Note:** Version bump only for package @nutol/eslint-config
 
@@ -437,7 +437,7 @@ project.
 
 
 
-# [5.0.0](https://github.com/nutoljs/nutol/compare/@nutol/eslint-config@4.1.5...@nutol/eslint-config@5.0.0) (2019-12-09)
+# [5.0.0](https://github.com/loopbackio/loopback-next/compare/@loopback/eslint-config@4.1.5...@nutol/eslint-config@5.0.0) (2019-12-09)
 
 
 ### Features
@@ -471,7 +471,7 @@ See https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-7.ht
 
 
 
-## [4.1.5](https://github.com/nutoljs/nutol/compare/@nutol/eslint-config@4.1.4...@nutol/eslint-config@4.1.5) (2019-11-25)
+## [4.1.5](https://github.com/loopbackio/loopback-next/compare/@loopback/eslint-config@4.1.4...@nutol/eslint-config@4.1.5) (2019-11-25)
 
 **Note:** Version bump only for package @nutol/eslint-config
 
@@ -479,7 +479,7 @@ See https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-7.ht
 
 
 
-## [4.1.4](https://github.com/nutoljs/nutol/compare/@nutol/eslint-config@4.1.3...@nutol/eslint-config@4.1.4) (2019-11-12)
+## [4.1.4](https://github.com/loopbackio/loopback-next/compare/@loopback/eslint-config@4.1.3...@nutol/eslint-config@4.1.4) (2019-11-12)
 
 **Note:** Version bump only for package @nutol/eslint-config
 
@@ -487,7 +487,7 @@ See https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-7.ht
 
 
 
-## [4.1.3](https://github.com/nutoljs/nutol/compare/@nutol/eslint-config@4.1.2...@nutol/eslint-config@4.1.3) (2019-10-24)
+## [4.1.3](https://github.com/loopbackio/loopback-next/compare/@loopback/eslint-config@4.1.2...@nutol/eslint-config@4.1.3) (2019-10-24)
 
 **Note:** Version bump only for package @nutol/eslint-config
 
@@ -495,7 +495,7 @@ See https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-7.ht
 
 
 
-## [4.1.2](https://github.com/nutoljs/nutol/compare/@nutol/eslint-config@4.1.1...@nutol/eslint-config@4.1.2) (2019-10-07)
+## [4.1.2](https://github.com/loopbackio/loopback-next/compare/@loopback/eslint-config@4.1.1...@nutol/eslint-config@4.1.2) (2019-10-07)
 
 **Note:** Version bump only for package @nutol/eslint-config
 
@@ -503,7 +503,7 @@ See https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-7.ht
 
 
 
-## [4.1.1](https://github.com/nutoljs/nutol/compare/@nutol/eslint-config@4.1.0...@nutol/eslint-config@4.1.1) (2019-09-27)
+## [4.1.1](https://github.com/loopbackio/loopback-next/compare/@loopback/eslint-config@4.1.0...@nutol/eslint-config@4.1.1) (2019-09-27)
 
 **Note:** Version bump only for package @nutol/eslint-config
 
@@ -511,7 +511,7 @@ See https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-7.ht
 
 
 
-# [4.1.0](https://github.com/nutoljs/nutol/compare/@nutol/eslint-config@4.0.2...@nutol/eslint-config@4.1.0) (2019-09-17)
+# [4.1.0](https://github.com/loopbackio/loopback-next/compare/@loopback/eslint-config@4.0.2...@nutol/eslint-config@4.1.0) (2019-09-17)
 
 
 ### Features
@@ -522,7 +522,7 @@ See https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-7.ht
 
 
 
-## [4.0.2](https://github.com/nutoljs/nutol/compare/@nutol/eslint-config@4.0.1...@nutol/eslint-config@4.0.2) (2019-09-03)
+## [4.0.2](https://github.com/loopbackio/loopback-next/compare/@loopback/eslint-config@4.0.1...@nutol/eslint-config@4.0.2) (2019-09-03)
 
 **Note:** Version bump only for package @nutol/eslint-config
 
@@ -530,7 +530,7 @@ See https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-7.ht
 
 
 
-## [4.0.1](https://github.com/nutoljs/nutol/compare/@nutol/eslint-config@4.0.0...@nutol/eslint-config@4.0.1) (2019-08-19)
+## [4.0.1](https://github.com/loopbackio/loopback-next/compare/@loopback/eslint-config@4.0.0...@nutol/eslint-config@4.0.1) (2019-08-19)
 
 **Note:** Version bump only for package @nutol/eslint-config
 
@@ -538,7 +538,7 @@ See https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-7.ht
 
 
 
-# [4.0.0](https://github.com/nutoljs/nutol/compare/@nutol/eslint-config@3.0.0...@nutol/eslint-config@4.0.0) (2019-08-15)
+# [4.0.0](https://github.com/loopbackio/loopback-next/compare/@loopback/eslint-config@3.0.0...@nutol/eslint-config@4.0.0) (2019-08-15)
 
 
 ### Features
@@ -555,7 +555,7 @@ See https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-7.ht
 
 
 
-# [3.0.0](https://github.com/nutoljs/nutol/compare/@nutol/eslint-config@2.0.2...@nutol/eslint-config@3.0.0) (2019-07-31)
+# [3.0.0](https://github.com/loopbackio/loopback-next/compare/@loopback/eslint-config@2.0.2...@nutol/eslint-config@3.0.0) (2019-07-31)
 
 
 ### Features
@@ -572,7 +572,7 @@ promise without awaiting its resolution.
 
 
 
-## [2.0.2](https://github.com/nutoljs/nutol/compare/@nutol/eslint-config@2.0.1...@nutol/eslint-config@2.0.2) (2019-07-26)
+## [2.0.2](https://github.com/loopbackio/loopback-next/compare/@loopback/eslint-config@2.0.1...@nutol/eslint-config@2.0.2) (2019-07-26)
 
 **Note:** Version bump only for package @nutol/eslint-config
 
@@ -580,7 +580,7 @@ promise without awaiting its resolution.
 
 
 
-## [2.0.1](https://github.com/nutoljs/nutol/compare/@nutol/eslint-config@2.0.0...@nutol/eslint-config@2.0.1) (2019-07-17)
+## [2.0.1](https://github.com/loopbackio/loopback-next/compare/@loopback/eslint-config@2.0.0...@nutol/eslint-config@2.0.1) (2019-07-17)
 
 **Note:** Version bump only for package @nutol/eslint-config
 
@@ -588,7 +588,7 @@ promise without awaiting its resolution.
 
 
 
-# [2.0.0](https://github.com/nutoljs/nutol/compare/@nutol/eslint-config@1.1.2...@nutol/eslint-config@2.0.0) (2019-06-28)
+# [2.0.0](https://github.com/loopbackio/loopback-next/compare/@loopback/eslint-config@1.1.2...@nutol/eslint-config@2.0.0) (2019-06-28)
 
 
 ### Features
@@ -612,7 +612,7 @@ eslint-ignore comments as needed.
 
 
 
-## [1.1.2](https://github.com/nutoljs/nutol/compare/@nutol/eslint-config@1.1.1...@nutol/eslint-config@1.1.2) (2019-06-17)
+## [1.1.2](https://github.com/loopbackio/loopback-next/compare/@loopback/eslint-config@1.1.1...@nutol/eslint-config@1.1.2) (2019-06-17)
 
 **Note:** Version bump only for package @nutol/eslint-config
 
@@ -620,7 +620,7 @@ eslint-ignore comments as needed.
 
 
 
-## [1.1.1](https://github.com/nutoljs/nutol/compare/@nutol/eslint-config@1.1.0...@nutol/eslint-config@1.1.1) (2019-06-06)
+## [1.1.1](https://github.com/loopbackio/loopback-next/compare/@loopback/eslint-config@1.1.0...@nutol/eslint-config@1.1.1) (2019-06-06)
 
 **Note:** Version bump only for package @nutol/eslint-config
 
@@ -628,7 +628,7 @@ eslint-ignore comments as needed.
 
 
 
-# [1.1.0](https://github.com/nutoljs/nutol/compare/@nutol/eslint-config@1.0.0-3...@nutol/eslint-config@1.1.0) (2019-06-03)
+# [1.1.0](https://github.com/loopbackio/loopback-next/compare/@loopback/eslint-config@1.0.0-3...@nutol/eslint-config@1.1.0) (2019-06-03)
 
 
 ### Features
@@ -640,7 +640,7 @@ eslint-ignore comments as needed.
 
 
 
-# [1.0.0-3](https://github.com/nutoljs/nutol/compare/@nutol/eslint-config@1.0.0-2...@nutol/eslint-config@1.0.0-3) (2019-05-31)
+# [1.0.0-3](https://github.com/loopbackio/loopback-next/compare/@loopback/eslint-config@1.0.0-2...@nutol/eslint-config@1.0.0-3) (2019-05-31)
 
 **Note:** Version bump only for package @nutol/eslint-config
 

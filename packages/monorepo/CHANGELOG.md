@@ -3,7 +3,7 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [0.2.1](https://github.com/nutoljs/nutol/compare/@nutol/monorepo@0.2.0...@nutol/monorepo@0.2.1) (2021-12-27)
+## [0.2.1](https://github.com/loopbackio/loopback-next/compare/@loopback/monorepo@0.2.0...@nutol/monorepo@0.2.1) (2021-12-27)
 
 **Note:** Version bump only for package @nutol/monorepo
 
@@ -22,7 +22,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.4.0](https://github.com/loopbackio/loopback-next/compare/@nutol/monorepo@0.3.4...@nutol/monorepo@0.4.0) (2021-11-18)
+# [0.4.0](https://github.com/loopbackio/loopback-next/compare/@loopback/monorepo@0.3.4...@nutol/monorepo@0.4.0) (2021-11-18)
 
 
 ### Features
@@ -43,7 +43,7 @@ Signed-off-by: Rifa Achrinza <25147899+achrinza@users.noreply.github.com>
 
 
 
-## [0.3.4](https://github.com/loopbackio/loopback-next/compare/@nutol/monorepo@0.3.3...@nutol/monorepo@0.3.4) (2021-10-18)
+## [0.3.4](https://github.com/loopbackio/loopback-next/compare/@loopback/monorepo@0.3.3...@nutol/monorepo@0.3.4) (2021-10-18)
 
 **Note:** Version bump only for package @nutol/monorepo
 
@@ -51,7 +51,7 @@ Signed-off-by: Rifa Achrinza <25147899+achrinza@users.noreply.github.com>
 
 
 
-## [0.3.3](https://github.com/loopbackio/loopback-next/compare/@nutol/monorepo@0.3.2...@nutol/monorepo@0.3.3) (2021-09-16)
+## [0.3.3](https://github.com/loopbackio/loopback-next/compare/@loopback/monorepo@0.3.2...@nutol/monorepo@0.3.3) (2021-09-16)
 
 **Note:** Version bump only for package @nutol/monorepo
 
@@ -59,7 +59,7 @@ Signed-off-by: Rifa Achrinza <25147899+achrinza@users.noreply.github.com>
 
 
 
-## [0.3.2](https://github.com/loopbackio/loopback-next/compare/@nutol/monorepo@0.3.1...@nutol/monorepo@0.3.2) (2021-07-15)
+## [0.3.2](https://github.com/loopbackio/loopback-next/compare/@loopback/monorepo@0.3.1...@nutol/monorepo@0.3.2) (2021-07-15)
 
 **Note:** Version bump only for package @nutol/monorepo
 
@@ -67,7 +67,7 @@ Signed-off-by: Rifa Achrinza <25147899+achrinza@users.noreply.github.com>
 
 
 
-## [0.3.1](https://github.com/loopbackio/loopback-next/compare/@nutol/monorepo@0.3.0...@nutol/monorepo@0.3.1) (2021-06-10)
+## [0.3.1](https://github.com/loopbackio/loopback-next/compare/@loopback/monorepo@0.3.0...@nutol/monorepo@0.3.1) (2021-06-10)
 
 **Note:** Version bump only for package @nutol/monorepo
 
@@ -75,7 +75,7 @@ Signed-off-by: Rifa Achrinza <25147899+achrinza@users.noreply.github.com>
 
 
 
-# [0.3.0](https://github.com/loopbackio/loopback-next/compare/@nutol/monorepo@0.2.1...@nutol/monorepo@0.3.0) (2021-05-03)
+# [0.3.0](https://github.com/loopbackio/loopback-next/compare/@loopback/monorepo@0.2.1...@nutol/monorepo@0.3.0) (2021-05-03)
 
 
 ### Bug Fixes
@@ -92,7 +92,7 @@ Signed-off-by: Rifa Achrinza <25147899+achrinza@users.noreply.github.com>
 
 
 
-## [0.2.1](https://github.com/loopbackio/loopback-next/compare/@nutol/monorepo@0.2.0...@nutol/monorepo@0.2.1) (2021-04-06)
+## [0.2.1](https://github.com/loopbackio/loopback-next/compare/@loopback/monorepo@0.2.0...@nutol/monorepo@0.2.1) (2021-04-06)
 
 **Note:** Version bump only for package @nutol/monorepo
 
@@ -100,7 +100,7 @@ Signed-off-by: Rifa Achrinza <25147899+achrinza@users.noreply.github.com>
 
 
 
-# [0.2.0](https://github.com/loopbackio/loopback-next/compare/@nutol/monorepo@0.1.3...@nutol/monorepo@0.2.0) (2021-03-18)
+# [0.2.0](https://github.com/loopbackio/loopback-next/compare/@loopback/monorepo@0.1.3...@nutol/monorepo@0.2.0) (2021-03-18)
 
 
 ### Bug Fixes
@@ -117,7 +117,7 @@ Signed-off-by: Rifa Achrinza <25147899+achrinza@users.noreply.github.com>
 
 
 
-## [0.1.3](https://github.com/loopbackio/loopback-next/compare/@nutol/monorepo@0.1.2...@nutol/monorepo@0.1.3) (2021-01-21)
+## [0.1.3](https://github.com/loopbackio/loopback-next/compare/@loopback/monorepo@0.1.2...@nutol/monorepo@0.1.3) (2021-01-21)
 
 **Note:** Version bump only for package @nutol/monorepo
 
@@ -125,7 +125,7 @@ Signed-off-by: Rifa Achrinza <25147899+achrinza@users.noreply.github.com>
 
 
 
-## [0.1.2](https://github.com/loopbackio/loopback-next/compare/@nutol/monorepo@0.1.1...@nutol/monorepo@0.1.2) (2020-12-07)
+## [0.1.2](https://github.com/loopbackio/loopback-next/compare/@loopback/monorepo@0.1.1...@nutol/monorepo@0.1.2) (2020-12-07)
 
 **Note:** Version bump only for package @nutol/monorepo
 
@@ -133,7 +133,7 @@ Signed-off-by: Rifa Achrinza <25147899+achrinza@users.noreply.github.com>
 
 
 
-## [0.1.1](https://github.com/loopbackio/loopback-next/compare/@nutol/monorepo@0.1.0...@nutol/monorepo@0.1.1) (2020-11-18)
+## [0.1.1](https://github.com/loopbackio/loopback-next/compare/@loopback/monorepo@0.1.0...@nutol/monorepo@0.1.1) (2020-11-18)
 
 **Note:** Version bump only for package @nutol/monorepo
 
