@@ -17,7 +17,7 @@ const path = require('path');
 const fs = require('fs-extra');
 const {isDryRun, loadLernaRepo, printJson, writeJsonSync, cloneJson, isJsonEqual, runMain} = require('./script-util');
 
-const debug = require('debug')('loopback:monorepo');
+const debug = require('debug')('nutol:monorepo');
 
 const TSCONFIG = 'tsconfig.json';
 const TSCONFIG_BUILD = 'tsconfig.build.json';

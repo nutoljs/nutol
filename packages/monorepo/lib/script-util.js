@@ -12,7 +12,7 @@ const util = require('util');
 const fs = require('fs-extra');
 const spawn = require('cross-spawn');
 
-const debug = require('debug')('loopback:monorepo');
+const debug = require('debug')('nutol:monorepo');
 
 /**
  * Get a list of lerna packages with the optional filter function

@@ -13,7 +13,7 @@
 const path = require('path');
 const fs = require('fs-extra');
 const {loadLernaRepo, runMain} = require('./script-util');
-const debug = require('debug')('loopback:monorepo');
+const debug = require('debug')('nutol:monorepo');
 
 async function checkPackageLocks() {
   const {project, packages} = await loadLernaRepo();

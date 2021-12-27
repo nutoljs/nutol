@@ -13,7 +13,7 @@
 
 const {getPackages, writeJsonSync, isDryRun, stringifyJson, runMain} = require('./script-util');
 
-const debug = require('debug')('loopback:monorepo');
+const debug = require('debug')('nutol:monorepo');
 
 /**
  * Update local package dependencies for `@loopback/*` modules

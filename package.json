@@ -11,7 +11,6 @@
     "postinstall": "husky install && npm run -s bootstrap && npm run -s update-ts-project-refs",
     "update-ts-project-refs": "node packages/monorepo/lib/update-ts-project-refs.js",
     "update-packages": "npm run -s update-package-locks",
-    "check-package-metadata": "node bin/check-package-metadata.js",
     "prerelease": "npm run build:full && cross-env CI=1 npm run jest && npm run lint",
     "release": "cross-env CI=1 lerna version && lerna publish from-git --yes",
     "update-package-locks": "node packages/monorepo/lib/rebuild-package-locks",

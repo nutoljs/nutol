@@ -9,7 +9,7 @@
  */
 'use strict';
 
-const debug = require('debug')('loopback:monorepo');
+const debug = require('debug')('nutol:monorepo');
 const {getPackages, runMain} = require('./script-util');
 
 module.exports = {

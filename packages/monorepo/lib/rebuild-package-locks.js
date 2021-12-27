@@ -16,7 +16,7 @@ const path = require('path');
 const fs = require('fs-extra');
 const {runMain, runShell} = require('./script-util');
 
-const debug = require('debug')('loopback:monorepo');
+const debug = require('debug')('nutol:monorepo');
 
 /**
  * Remove all package-lock.json and node_modules for all packages

@@ -12,7 +12,7 @@
 
 const path = require('path');
 const fs = require('fs-extra');
-const debug = require('debug')('loopback:monorepo');
+const debug = require('debug')('nutol:monorepo');
 const {
   isDryRun,
   isTypeScriptPackage,
