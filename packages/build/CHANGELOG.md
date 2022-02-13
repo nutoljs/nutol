@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.2](https://github.com/nutoljs/nutol/compare/@nutol/build@0.2.1...@nutol/build@0.2.2) (2022-02-13)
+
+**Note:** Version bump only for package @nutol/build
+
+
+
+
+
 ## [0.2.1](https://github.com/loopbackio/loopback-next/compare/@loopback/build@0.2.0...@nutol/build@0.2.1) (2021-12-27)
 
 **Note:** Version bump only for package @nutol/build
