@@ -9,7 +9,7 @@ const assert = require('assert');
 const path = require('path');
 const spawn = require('cross-spawn');
 const fs = require('fs-extra');
-const utils = require('../../bin/utils');
+const utils = require('../../utils');
 
 describe('build', function () {
   const cwd = process.cwd();

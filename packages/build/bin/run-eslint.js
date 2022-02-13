@@ -16,7 +16,7 @@ Usage:
 'use strict';
 
 function run(argv, options) {
-  const utils = require('./utils');
+  const utils = require('../utils');
 
   const eslintOpts = argv.slice(2);
 

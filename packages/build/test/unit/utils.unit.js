@@ -6,7 +6,7 @@
 'use strict';
 
 const assert = require('assert');
-const utils = require('../../bin/utils');
+const utils = require('../../utils');
 
 describe('Build utils', () => {
   describe('getPackageName()', () => {

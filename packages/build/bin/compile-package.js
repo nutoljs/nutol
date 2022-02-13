@@ -18,7 +18,7 @@ Where <target> is one of es2015, es2017 or es2018.
 'use strict';
 
 const debug = require('debug')('nutol:build');
-const utils = require('./utils');
+const utils = require('../utils');
 const path = require('path');
 const fs = require('fs');
 const glob = require('glob');

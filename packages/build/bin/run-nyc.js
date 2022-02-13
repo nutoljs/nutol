@@ -16,7 +16,7 @@ Usage:
 'use strict';
 
 function run(argv, options) {
-  const utils = require('./utils');
+  const utils = require('../utils');
 
   const nycOpts = argv.slice(2);
   const args = [...nycOpts];
