@@ -1,7 +1,7 @@
 {
   "name": "@nutol/build",
   "description": "A set of common scripts and default configurations to build TypeScript modules",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "license": "MIT",
   "bin": {
     "nb-tsc": "./bin/compile-package.js",
