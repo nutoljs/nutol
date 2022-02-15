@@ -67,6 +67,7 @@ exports.linkWorkspaces = async ({whitelist, blacklist} = defaults) => {
   const lernaJson = path.resolve('lerna.json');
   const lerna = fs.existsSync(lernaJson) ? require(lernaJson) : null;
 
+  let count = 0;
   for (const item of packages) {
     const packageJson = path.resolve(item, 'package.json');
     if (!fs.existsSync(packageJson)) {
@@ -87,11 +88,15 @@ exports.linkWorkspaces = async ({whitelist, blacklist} = defaults) => {
       fs.mkdirpSync(target);
     }
 
+    count++;
     try {
+      console.log(`Linking #${count} (${target} -> ${link})`);
       await fs.mkdirp(path.dirname(link));
       await symlink(target, link);
     } catch (err) {
       console.log(`Failed ${pkg.name}: ${err.message}`);
     }
   }
+
+  console.log(`Successful linked ${count} project workspaces!`);
 };
