@@ -1,7 +1,7 @@
 {
   "name": "@nutol/build",
   "description": "A set of common scripts and default configurations to build TypeScript modules",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "license": "MIT",
   "bin": {
     "nb-tsc": "./bin/compile-package.js",
@@ -33,7 +33,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@nutol/eslint-config": "^0.2.1",
+    "@nutol/eslint-config": "^0.2.2",
     "@types/node": "^17.0.21",
     "cross-spawn": "^7.0.3",
     "debug": "^4.3.3",
