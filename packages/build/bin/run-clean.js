@@ -42,7 +42,16 @@ function run(argv, options) {
         console.error('Skipping ' + pattern + ' as it is not inside the project root directory.');
       }
     } else {
-      if (!options.dryRun) rimraf.sync(pattern);
+      if (!options.dryRun) {
+        try {
+          rimraf.sync(pattern);
+        } catch (e) {
+          // skip `no matches found` error
+          if (!e.message.match(/no matches found/)) {
+            throw e;
+          }
+        }
+      }
       removed.push(pattern);
     }
   });
