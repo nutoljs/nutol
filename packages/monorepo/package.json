@@ -1,7 +1,7 @@
 {
   "name": "@nutol/monorepo",
   "description": "A set of scripts to maintain a lerna monorepo",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "license": "MIT",
   "bin": {
     "nb-run-lerna": "./lib/run-lerna.js",
