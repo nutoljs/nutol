@@ -32,6 +32,7 @@ function run(argv, options) {
     console.error('Please specify file patterns to remove.');
     process.exit(1);
   }
+
   // Keep it backward compatible as dryRun
   if (typeof options === 'boolean') options = {dryRun: options};
   options = options || {};
@@ -43,14 +44,7 @@ function run(argv, options) {
       }
     } else {
       if (!options.dryRun) {
-        try {
-          rimraf.sync(pattern);
-        } catch (e) {
-          // skip `no matches found` error
-          if (!e.message.match(/no matches found/)) {
-            throw e;
-          }
-        }
+        rimraf.sync(pattern);
       }
       removed.push(pattern);
     }

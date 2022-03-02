@@ -12,7 +12,7 @@ Usage:
 
 const {linkWorkspaces} = require('../workspaces');
 
-async function run(argv, options) {
+async function run() {
   await linkWorkspaces();
 }
 

@@ -14,8 +14,8 @@ This module contains a set of common scripts to maintain a [lerna](https://githu
 
 ## Basic use
 
-To use `@nutol/monorepo` for your lerna monorepo, run the following command to add `@nutol/monorepo` as a dev
-dependency to the root project.
+To use `@nutol/monorepo` for your lerna monorepo, run the following command to add `@nutol/monorepo` as a dev dependency
+to the root project.
 
 ```sh
 npm i @nutol/monorepo --save-dev
