@@ -1,7 +1,7 @@
 {
   "name": "@nutol/eslint-config",
   "description": "ESLint configuration for common projects",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "license": "MIT",
   "main": "eslintrc.js",
   "author": "TY",
