@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.10](https://github.com/nutoljs/nutol/compare/@nutol/monorepo@0.2.9...@nutol/monorepo@0.2.10) (2023-02-12)
+
+**Note:** Version bump only for package @nutol/monorepo
+
+
+
+
+
 ## [0.2.9](https://github.com/nutoljs/nutol/compare/@nutol/monorepo@0.2.8...@nutol/monorepo@0.2.9) (2022-09-23)
 
 **Note:** Version bump only for package @nutol/monorepo
