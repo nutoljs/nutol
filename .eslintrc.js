@@ -4,7 +4,9 @@ module.exports = {
   overrides: [
     {
       files: ['**/*.ts'],
-      rules: {},
+      rules: {
+        '@typescript-eslint/prefer-nullish-coalescing': 'off',
+      },
     },
   ],
 };

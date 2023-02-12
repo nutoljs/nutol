@@ -31,11 +31,11 @@
     "lerna": "^5.0.0"
   },
   "dependencies": {
-    "@lerna/filter-packages": "^5.5.2",
-    "@lerna/package-graph": "^5.5.2",
-    "@lerna/project": "^5.5.2",
+    "@lerna/filter-packages": "^6.4.1",
+    "@lerna/package-graph": "^6.4.1",
+    "@lerna/project": "^6.4.1",
     "cross-spawn": "^7.0.3",
     "debug": "^4.3.4",
-    "fs-extra": "^10.1.0"
+    "fs-extra": "^11.1.0"
   }
 }
