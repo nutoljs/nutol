@@ -9,7 +9,8 @@ module.exports = {
   root: true,
   env: {
     es6: true,
-    node: true
+    node: true,
+    jest: true
   },
   extends: [
     "eslint:recommended",
@@ -31,7 +32,7 @@ module.exports = {
     },
     noWatch: true
   },
-  plugins: ["eslint-plugin", "@typescript-eslint"],
+  plugins: ["eslint-plugin", "@typescript-eslint", "jest"],
   rules: {
     "prefer-const": "error",
     "no-mixed-operators": "off",
@@ -47,10 +48,6 @@ module.exports = {
     /**
      * Rules imported from eslint-config-loopback
      */
-    "mocha/handle-done-callback": "error",
-    "mocha/no-exclusive-tests": "error",
-    "mocha/no-identical-title": "error",
-    "mocha/no-nested-tests": "error",
     "no-array-constructor": "error",
 
     /**
