@@ -15,5 +15,10 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "files": [
+    "tsconfig.common.json",
+    "tsconfig.build.json",
+    "README.md"
+  ]
 }
