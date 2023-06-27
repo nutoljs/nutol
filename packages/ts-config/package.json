@@ -1,7 +1,7 @@
 {
   "name": "@nutol/ts-config",
   "description": "Common TypeScript config for commonjs",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "license": "MIT",
   "main": "tsconfig.common.json",
   "author": "TY",
