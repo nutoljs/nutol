@@ -1,0 +1,19 @@
+{
+  "name": "@nutol/ts-config-esm",
+  "description": "Common TypeScript config for ESM",
+  "version": "0.1.0",
+  "license": "MIT",
+  "main": "tsconfig.common.json",
+  "author": "TY",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nutoljs/nutol.git",
+    "directory": "packages/ts-config"
+  },
+  "engines": {
+    "node": "16 || 18 || 20"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

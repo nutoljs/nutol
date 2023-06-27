@@ -1,8 +1,15 @@
 {
-  "extends": "./packages/build/config/tsconfig.common.json",
+  "extends": "./packages/ts-config/tsconfig.common.json",
   "compilerOptions": {
     "composite": true
   },
-  "references": [],
+  "references": [
+    {
+      "path": "packages/ts-config-esm/tsconfig.json"
+    },
+    {
+      "path": "packages/ts-config/tsconfig.json"
+    }
+  ],
   "files": []
 }
