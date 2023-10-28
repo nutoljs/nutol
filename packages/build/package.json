@@ -24,7 +24,7 @@
     "directory": "packages/build"
   },
   "engines": {
-    "node": "16 || 17 || 18"
+    "node": ">= 18"
   },
   "scripts": {
     "test": "jest"

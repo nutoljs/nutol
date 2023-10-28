@@ -14,7 +14,7 @@
     "directory": "packages/eslint-config"
   },
   "engines": {
-    "node": "16 || 17 || 18 || 19"
+    "node": ">= 18"
   },
   "publishConfig": {
     "access": "public"
