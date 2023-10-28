@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.10](https://github.com/nutoljs/nutol/compare/@nutol/eslint-config@0.2.9...@nutol/eslint-config@0.2.10) (2023-10-28)
+
+**Note:** Version bump only for package @nutol/eslint-config
+
+
+
+
+
 ## [0.2.9](https://github.com/nutoljs/nutol/compare/@nutol/eslint-config@0.2.8...@nutol/eslint-config@0.2.9) (2023-06-08)
 
 **Note:** Version bump only for package @nutol/eslint-config

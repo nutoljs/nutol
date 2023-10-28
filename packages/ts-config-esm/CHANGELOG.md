@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.2](https://github.com/nutoljs/nutol/compare/@nutol/ts-config-esm@0.2.1...@nutol/ts-config-esm@0.2.2) (2023-10-28)
+
+**Note:** Version bump only for package @nutol/ts-config-esm
+
+
+
+
+
 ## [0.2.1](https://github.com/nutoljs/nutol/compare/@nutol/ts-config-esm@0.2.0...@nutol/ts-config-esm@0.2.1) (2023-06-27)
 
 **Note:** Version bump only for package @nutol/ts-config-esm
