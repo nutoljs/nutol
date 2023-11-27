@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.16](https://github.com/nutoljs/nutol/compare/@nutol/build@0.2.15...@nutol/build@0.2.16) (2023-11-27)
+
+**Note:** Version bump only for package @nutol/build
+
+
+
+
+
 ## [0.2.15](https://github.com/nutoljs/nutol/compare/@nutol/build@0.2.14...@nutol/build@0.2.15) (2023-10-28)
 
 **Note:** Version bump only for package @nutol/build
