@@ -4,9 +4,9 @@
   "version": "0.2.12",
   "license": "MIT",
   "bin": {
-    "nb-run-lerna": "./lib/run-lerna.js",
     "nb-check-package-locks": "./lib/check-package-locks.js",
     "nb-rebuild-package-locks": "./lib/rebuild-package-locks.js",
+    "nb-run-lerna": "./lib/run-lerna.js",
     "nb-update-package-deps": "./lib/update-package-deps.js",
     "nb-update-package-json": "./lib/update-package-json.js",
     "nb-update-ts-project-refs": "./lib/update-ts-project-refs.js"
