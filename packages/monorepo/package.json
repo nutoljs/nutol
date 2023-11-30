@@ -1,7 +1,7 @@
 {
   "name": "@nutol/monorepo",
   "description": "A set of scripts to maintain a lerna monorepo",
-  "version": "0.2.13",
+  "version": "0.2.14",
   "license": "MIT",
   "bin": {
     "nb-check-package-locks": "./lib/check-package-locks.js",
