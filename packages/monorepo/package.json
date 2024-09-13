@@ -35,7 +35,7 @@
     "@lerna/package-graph": "^6.4.1",
     "@lerna/project": "^6.4.1",
     "cross-spawn": "^7.0.3",
-    "debug": "^4.3.4",
+    "debug": "^4.3.7",
     "fs-extra": "^11.2.0"
   }
 }
