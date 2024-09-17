@@ -1,7 +1,7 @@
 {
   "name": "@nutol/build",
   "description": "A set of common scripts and default configurations to build TypeScript modules",
-  "version": "0.2.21",
+  "version": "0.2.22",
   "license": "MIT",
   "bin": {
     "nb-clean": "./bin/run-clean.js",

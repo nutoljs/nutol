@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.22](https://github.com/nutoljs/nutol/compare/@nutol/build@0.2.21...@nutol/build@0.2.22) (2024-09-17)
+
+
+### Bug Fixes
+
+* update ESLint ignore option from --ignore-path to --ignore-pattern ([8864f8f](https://github.com/nutoljs/nutol/commit/8864f8fd4cd27183743a7053692b7582c14f23bc))
+
+
+
+
+
 ## [0.2.21](https://github.com/nutoljs/nutol/compare/@nutol/build@0.2.20...@nutol/build@0.2.21) (2024-09-13)
 
 **Note:** Version bump only for package @nutol/build
